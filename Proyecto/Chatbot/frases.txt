@@ -1,0 +1,149 @@
+	/*Hola
+	R = Hola, en que puedo ayudarte
+	¿Quién eres?
+	¿Cómo te llamas?
+	¿Cuál es tu nombre?
+	¿Qué eres?
+	R= Mi nombre es R2D2 y soy un asistente inteligente especializado en temas sobre películas y series
+	¿Qué es lo que haces?
+	¿A que te dedicas?	
+	¿en que trabajas?
+	¿que es lo que tu haces?
+	R= soy un asistente inteligente especializado en temas sobre películas y series
+	¿Has visto la pelicula 	[Nombre]?
+	¿Has visto la serie 	[Nombre]?
+	¿Te gusta la pelicula 	[Nombre]?
+	¿Te gusta la serie 		[Nombre]?
+
+	Recomiendame peliculas de X-Género
+	Recomiendame series de X-Género
+	Muestrame la peliculas del director X
+	Muestrame la series del director X	
+	Muestrame la peliculas del actor X	
+	Muestrame la series del actor X
+	Dame la información de X película/serie
+	*/
+	
+
+	
+
+	Es buena la pelicula/serie [Nombre]
+
+
+
+
+
+
+
+
+
+
+	¿Eres una mujer?
+	¿Eres un hombre?
+	¿Eres un robot?
+	¿Eres hombre?
+	¿Eres robot?
+	¿Eres mujer?
+
+	¿Qué peliculas me recomiendas?
+	¿Qué series me recomiendas?
+	R = ¿Qué generos te gustan?
+
+
+	
+
+
+	
+	
+
+	
+	¿Qué genero de peliculas te gustan?
+	¿Qué genero de series te gustan?
+	¿Cuál es la última pelicula que viste
+	¿Cuál es la última serie que viste?
+	¿Cuáles son tus peliculas favoritas ?
+	¿Cuáles son tus series favoritas ?
+	¿Cuál es tu género favorito de paliculas?
+	¿Cuál es tu género favorito de series?
+	¿Cual es tu pelicula favorita de X-Categoria?
+	¿Cual es tu serie favorita de X-Categoria?
+	¿Cuál es tu película/series favorita de X director?	
+	¿Cuál es tu película/series favorita de X actor?
+	¿De que año es la pelicula/serie X?
+	
+	
+	
+	Qué calificación le pondrías a X película/serie
+	
+	
+	
+	¿Cuales son las mejores películas/series del año/mes/semana?
+	
+	¿Cuales son las mejores películas/series de X año/mes/semana?
+	
+	¿Cuáles son los estrenos de este meaño/mes/semanas?
+	
+	¿Cuántas películas de X-Género hubo este año/mes/semana?
+	
+	¿Cuántas películas de X-Género hubo este X año/mes/semana?
+	
+	¿Cuáles peliculas consideras cine de arte de este año?
+	
+	¿Cuáles peliculas consideras cine de arte de X año?
+	
+	¿Cuáles peliculas consideras de culto de este año?
+	
+	¿Cuáles peliculas consideras de culto de X año?
+	
+	¿Cuál ha sido la mejor temporada de X-serie?
+	
+	¿Cuál ha sido el mejor capítulo de X-temporada X-serie?
+	
+	¿Cuál es el actor principal de la pelicula/serie?
+	
+	¿Cuál es son las peliculas nóminadas al Oscar este año?
+
+	¿Cuál es son las peliculas nóminadas al Oscar este X año?
+	
+	¿Cuál es la peliculas ganadora al Oscar este año?
+
+	¿Cuál es la peliculas ganadora al Oscar X año?.
+	
+	
+	/*
+	¿Cuántas temporadas tiene X-serie?
+	¿Cuántas capítulos tiene X-serie?
+	*/
+	¿Cuáles peliculas tratan de superheroes?
+	
+	¿Cuál es la mejor película de Marvel?
+	
+	¿Cuál es la mejor película de DC Comics?
+	
+	¿Cuál es la mejor película de Pixar?
+	
+	¿Cuál es la mejor película de Disney?
+	
+	¿Cuál es la mejor película de Dreamworks?
+	
+	¿Qué pelicula/serie me recomiendas para ver con mis amigos?
+	
+	¿Qué pelicula/serie me recomiendas para ver con mi familia?
+	
+	¿Qué pelicula/serie me recomiendas para ver con mi novio/a?
+
+	¿Qué pelicula/serie me recomiendas para una tarde aburrida?
+
+	¿Qué pelicula/serie me recomiendas para ver el domingo?
+	
+	¿Que película/serie es mejor X o Y?
+	
+	¿Que péliculas puedo ir a ver en el cine?
+	
+	
+	
+	
+	
+	
+	
+	

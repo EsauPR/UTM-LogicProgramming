@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:calf="http://www.imdb.com/chart/top"
+xmlns:pelis=""
+xmlns:actores="http://www.wikipedia.org"
+xmlns:series="http://www.wikipedia.org"
+>
+
+
+<rdf:Description rdf:about="cadena_perpetua">
+  <pelis:nombre>cadena perpetua</pelis:nombre>
+  <pelis:director>Frank Darabont</pelis:director>
+  <pelis:guionista>Frank Darabont </pelis:guionista>
+  <pelis:actor_principal>Tim Robbins</pelis:actor_principal>
+  <pelis:actores_reparto>Morgan Freeman, Bob Gunton, James Whitmore, Gil Bellows, William Sadler, Mark Rolston, Clancy Brown, David Proval, Jeffrey DeMunn, Jude Ciccolella, Don McManus, Alfonso Freeman</pelis:actores_reparto>
+  <pelis:calificacion>9.2</pelis:calificacion>
+  <pelis:genero>Drama</pelis:genero>
+  <pelis:fecha_estreno>1994</pelis:fecha_estreno>
+  <pelis:duracion>143 min</pelis:duracion>  
+  <pelis:productora>Columbia Pictures / Castle Rock Entertainment</pelis:productora>
+  <pelis:pais>Estado Unidos</pelis:pais>
+  <pelis:sinopsis>Acusado del asesinato de su mujer, Andrew Dufresne (Tim Robbins), tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank. 
+Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros de prisión, especialmente de Red (Morgan Freeman), 
+el jefe de la mafia de los sobornos.</pelis:sinopsis>
+  <pelis:premios>1972: 3 Oscars: Mejor película, Actor (Marlon Brando), Guión adaptado. 10 nom. 1972: 5 Globos de Oro: Película (Drama), Director, Actor (Brando), Guión y BSO 
+  1972: Círculo de críticos de Nueva York: Mejor actor de reparto (Duvall) 1972: Premios David di Donatello: Mejor film extranjero</pelis:premios>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="El_padrino">
+  <pelis:nombre>El padrino</pelis:nombre>
+  <pelis:director>Francis Ford Coppola</pelis:director>
+  <pelis:guionista>Francis Ford Coppola, Mario Puzo (Novela: Mario Puzo) </pelis:guionista>
+  <pelis:actor_principal>Marlon Brando</pelis:actor_principal>
+  <pelis:actores_reparto> Al Pacino, James Caan, Robert Duvall, Diane Keaton, John Cazale, Talia Shire, Richard Castellano, Sterling Hayden, Gianni Russo, Rudy Bond, John Marley, Richard Conte, Al Lettieri, Abe Vigoda, Franco Citti, Lenny Montana, Al Martino, Joe Spinell, Simonetta Stefanelli, Morgana King, Alex Rocco, John Martino, Salvatore Corsitto</pelis:actores_reparto>
+  <pelis:calificacion>9.2</pelis:calificacion>
+  <pelis:genero>Drama</pelis:genero>
+  <pelis:fecha_estreno>1972</pelis:fecha_estreno>
+  <pelis:duracion>143 min</pelis:duracion>  
+  <pelis:productora>Paramount Pictures / Albert S. Ruddy Production</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>mérica, años 40. Don Vito Corleone (Marlon Brando) es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: Connie (Talia Shire), el impulsivo Sonny (James Caan), el pusilánime Freddie (John Cazale) y Michael (Al Pacino), que no quiere saber nada de los negocios de su padre. Cuando Corleone, en contra de los consejos de 'Il consigliere' Tom Hagen (Robert Duvall), se niega a intervenir en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas.</pelis:sinopsis>
+  <pelis:premios>1972: 3 Oscars: Mejor película, Actor (Marlon Brando), Guión adaptado. 10 nom. 1972: 5 Globos de Oro: Película (Drama), Director, Actor (Brando), Guión y BSO 1972: Círculo de críticos de Nueva York: Mejor actor de reparto (Duvall) 1972: Premios David di Donatello: Mejor film extranjero</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El-Padrino-Parte-II">
+  <pelis:nombre>El padrino Parte 2</pelis:nombre>
+  <pelis:director>Francis Ford Coppola</pelis:director>
+  <pelis:guionista>Francis Ford Coppola, Mario Puzo (Novela: Mario Puzo) </pelis:guionista>
+  <pelis:actor_principal>Al Pacino</pelis:actor_principal>
+  <pelis:actores_reparto>Robert De Niro, Diane Keaton, Robert Duvall, John Cazale, Lee Strasberg, Talia Shire, Gastone Moschin, Michael V. Gazzo, Marianna Hill, Bruno Kirby, Danny Aiello, Harry Dean Stanton, Troy Donahue, Roger Corman, Morgana King, Joe Spinell, Richard Bright, James Caan, Dominic Chianese, Francesca de Sapio, G. D. Spradlin, Frank Siver, Tito Alba, Oreste Baldini</pelis:actores_reparto>
+  <pelis:calificacion>9.0</pelis:calificacion>
+  <pelis:genero>Drama</pelis:genero>
+  <pelis:fecha_estreno>1974</pelis:fecha_estreno>
+  <pelis:duracion>200 min</pelis:duracion>  
+  <pelis:productora>Paramount Pictures / Albert S. Ruddy Production</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Continuación de la historia de los Corleone por medio de dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.</pelis:sinopsis>
+  <pelis:premios>1974: 6 Oscars, incluyendo Película, Director, Actor de reparto (De Niro). 11 nom. 1974: Globos de Oro: 6 nominaciones, incluyendo Mejor película - Drama. 1974: Círculo de críticos de Nueva York: 3 Nominaciones</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Batman-El-caballero-oscuro">
+  <pelis:nombre>El caballero oscuro</pelis:nombre>
+  <pelis:director>Christopher Nolan</pelis:director>
+  <pelis:guionista>Christopher Nolan, David S. Goyer, Jonathan Nolan (Personajes: Bob Kane)</pelis:guionista>
+  <pelis:actor_principal>Christian Bale</pelis:actor_principal>
+  <pelis:actores_reparto> Heath Ledger, Aaron Eckhart, Michael Caine, Gary Oldman, Morgan Freeman, Maggie Gyllenhaal, Eric Roberts, Cillian Murphy, Michael Jai White, William Fichtner, Monique Gabriela Curnen, Chin Han, Nestor Carbonell, Ritchie Coster, Keith Szarabajka, Ron Dean, Colin McFarlane, Joshua Harto, Melinda McGraw, Nathan Gamble, Michael Vieau, Tommy 'Tiny' Lister</pelis:actores_reparto>
+  <pelis:calificacion>8.9</pelis:calificacion>
+  <pelis:genero>Thriller</pelis:genero>
+  <pelis:fecha_estreno>2008</pelis:fecha_estreno>
+  <pelis:duracion>152 min</pelis:duracion>  
+  <pelis:productora>Coproducción USA-Reino Unido; Warner Bros. Pictures / Legendary Pictures</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon (Gary Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart), Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger), un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.</pelis:sinopsis>
+  <pelis:premios>2008: 2 Oscar: Mejor actor secundario (H. Ledger) y montaje sonido. 8 nominaciones. 2008: Globo de Oro: Mejor actor secundario (Heath Ledger). 2008: Premios BAFTA: Mejor actor secundario (Heath Ledger). 9 nominaciones .2008: Festival de Toronto: Mejor actor secundario (Heath Ledger). 2008: Premios Goya: Nominada a la mejor Película Europea. 2008: Asociación de Críticos de Los Angeles: Mejor actor secundario (H. Ledger). 2008: American Film Institute: Top 10 - Mejores películas del año. 2008: Saturn Awards: 5 premios incluyendo Mejor Película de Acción. 11 nominaciones. 2008: Art Directors Guild: Mejor Diseño de producción en película fantástica. 2008: Broadcast Film Critics Association: Mejor Película Acción, Mejor Actor Sec. 6 nom. 2008: National Board of Review: Top Ten Films. 2008: American Film Institute (AFI): Top 10 - Mejores películas del año. 2008: 2 Critics' Choice Awards: Mejor película de acción, actor secundario. 6 nominaciones. 2008: Asociación de Críticos de Chicago: Mejor actor secundario. 6 Nominaciones</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Pulp-Fiction">
+  <pelis:nombre>Pulp Fiction</pelis:nombre>
+  <pelis:director>Quentin Tarantino</pelis:director>
+  <pelis:guionista>Quentin Tarantino y Roger Avary</pelis:guionista>
+  <pelis:actor_principal>John Travolta</pelis:actor_principal>
+  <pelis:actores_reparto> Samuel L. Jackson, Uma Thurman, Bruce Willis, Harvey Keitel, Eric Stoltz, Tim Roth, Maria de Medeiros, Amanda Plummer, Ving Rhames, Rosanna Arquette, Christopher Walken, Quentin Tarantino, Peter Greene, Phil LaMarr, Paul Calderon, Burr Steers, Frank Whaley, Steve Buscemi</pelis:actores_reparto>
+  <pelis:calificacion>9.0</pelis:calificacion>
+  <pelis:genero>Crimen</pelis:genero>
+  <pelis:fecha_estreno>1994</pelis:fecha_estreno>
+  <pelis:duracion>200 min</pelis:duracion>  
+  <pelis:productora>Miramax Films / Band Apart / Jersey Films. Productor: Lawrence Bender</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.</pelis:sinopsis>
+  <pelis:premios>1994: Oscar: Mejor guión original. 7 nominaciones, incluyendo mejor película. 1994: Globo de Oro: Mejor guión. 6 nominaciones. 1994: Festival de Cannes: Palma de Oro - mejor película. 1994: 2 Premios BAFTA: Mejor actor sec. (Samuel L. Jackson) y guión. 9 nom. 1994: Premios Cesar: Nominada a la mejor película extranjera. 1994: Premios David di Donatello: Mejor film y actor extranjero (Travolta). 3 nom. 1994: National Board of Review: Mejor película (ex-aequo)
+1994: Círculo de Críticos de Nueva York: Mejor director y Mejor guión. 5 nom. 1994: Asociación de Críticos de Los Angeles: Mejor película, director, actor y guión</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La-lista-de-Schindler">
+  <pelis:nombre>La lista de Schindler</pelis:nombre>
+  <pelis:director>Steven Spielberg</pelis:director>
+  <pelis:guionista>Steven Zaillian (Novela: Thomas Keneally)</pelis:guionista>
+  <pelis:actor_principal>Liam Neeson</pelis:actor_principal>
+  <pelis:actores_reparto>Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall, Embeth Davidtz, Norbert Weisser, Martin S. Bergmann, Mark Ivanir, Malgorzata Gebel, Shmuel Levy, Michael Schneider, Joachim Paul Assböck, Branko Lustig, Götz Otto</pelis:actores_reparto>
+  <pelis:calificacion>8.9</pelis:calificacion>
+  <pelis:genero>Drama</pelis:genero>
+  <pelis:fecha_estreno>1993</pelis:fecha_estreno>
+  <pelis:duracion>195 min</pelis:duracion>  
+  <pelis:productora>Universal Pictures / Amblin Entertainment</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Segunda Guerra Mundial (1939-1945). Oskar Schindler (Liam Neeson), un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes (1939), consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente (Ben Kingsley), también judío, es el verdadero director en la sombra, pues Schindler carece completamente de conocimientos para dirigir una empresa.</pelis:sinopsis>
+  <pelis:premios>1994: Premios Cesar: Nominada a la Mejor película extranjera. 1993: 7 Oscars: Película, director, guión, montaje, música, dirección artística, fotografía. 1993: 3 Globos de Oro: Película: drama, guión, director. 6 nominaciones. 1993: 7 Premios BAFTA, incluyendo mejor película y director. 13 nominaciones. 1993: National Board of Review: Mejor película</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El-senor-de-los-anillos-El-retorno-del-rey">
+  <pelis:nombre>El señor de los anillos El retorno del rey</pelis:nombre>
+  <pelis:director>Peter Jackson</pelis:director>
+  <pelis:guionista>Peter Jackson, Frances Walsh, Philippa Boyens (Novela: J.R.R. Tolkien)</pelis:guionista>
+  <pelis:actor_principal>Elijah Wood</pelis:actor_principal>
+  <pelis:actores_reparto> Viggo Mortensen, Ian McKellen, Sean Astin, Andy Serkis, John Rhys-Davies, Orlando Bloom, John Noble, Miranda Otto, David Wenham, Bernard Hill, Billy Boyd, Dominic Monaghan, Liv Tyler, Karl Urban, Christopher Lee, Brad Dourif, Ian Holm, Hugo Weaving, Cate Blanchett, Lawrence Makoare, Marton Csokas, Sean Bean</pelis:actores_reparto>
+  <pelis:calificacion>8.9</pelis:calificacion>
+  <pelis:genero>Fantasia</pelis:genero>
+  <pelis:fecha_estreno>2001</pelis:fecha_estreno>
+  <pelis:duracion>201 min</pelis:duracion>  
+  <pelis:productora>Coproducción EEUU-Nueva Zelanda; New Line Cinema</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de decidir el destino de la Tierra Media, y, por primera vez, parece que hay una pequeña esperanza. El interés del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, cuyo trono será reclamado por Aragorn. Sauron se dispone a lanzar un ataque decisivo contra Gondor. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, con la esperanza de llegar al Monte del Destino.</pelis:sinopsis>
+  <pelis:premios>2003: 11 premios Oscar, incluyendo mejor película y mejor director. 11 nominaciones. 2003: 4 Globos de Oro: Mejor película dramática, director, bso, canción original 2003: 4 premios BAFTA, incluyendo mejor película y guión adaptado. 12 nominaciones. 2003: National Board of Review: Mejor reparto. 2003: Círculo de críticos de Nueva York: Mejor película. 2003: Asociación de Críticos de Los Angeles: Mejor director y diseño de producción. 2003: Festival de Toronto: Mejor director (Peter Jackson). 2003: American Film Institute (AFI): Top 10 - Mejores películas del año. 2003: 4 Critics' Choice Awards: Mejor película, director, reparto y compositor. 2003: Asociación de Críticos de Chicago: Mejor Película, Director y Banda Sonora</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El-club-de-la-pelea">
+  <pelis:nombre>El club de la pelea</pelis:nombre>
+  <pelis:director>David Fincher</pelis:director>
+  <pelis:guionista>Jim Uhls (Novela: Chuck Palahniuk)</pelis:guionista>
+  <pelis:actor_principal>Edward Norton</pelis:actor_principal>
+  <pelis:actores_reparto>Brad Pitt, Edward Norton, Helena Bonham Carter, Meat Loaf, Jared Leto, Van Quattro, Markus Redmond, Michael Girardin, Rachel Singer, Eion Bailey</pelis:actores_reparto>
+  <pelis:calificacion>8.8</pelis:calificacion>
+  <pelis:genero>Thriller</pelis:genero>
+  <pelis:fecha_estreno>1999</pelis:fecha_estreno>
+  <pelis:duracion>139 min</pelis:duracion>  
+  <pelis:productora>Fox 2000 Pictures / Regency Enterprises / Linson Films</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Un joven hastiado de su gris y monótona vida lucha contra el insomnio. En un viaje en avión conoce a un carismático vendedor de jabón que sostiene una teoría muy particular: el perfeccionismo es cosa de gentes débiles; sólo la autodestrucción hace que la vida merezca la pena. Ambos deciden entonces fundar un club secreto de lucha, donde poder descargar sus frustaciones y su ira, que tendrá un éxito arrollador.</pelis:sinopsis>
+  <pelis:premios>1999: Nominada al Oscar: Mejores efectos de sonido</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El-senor-de-los-anillos-La-comunidad-del-nillo">
+  <pelis:nombre>El señor de los anillos La comunidad del anillo</pelis:nombre>
+  <pelis:director>Peter Jackson</pelis:director>
+  <pelis:guionista>Frances Walsh, Philippa Boyens, Peter Jackson (Novela: J.R.R. Tolkien)</pelis:guionista>
+  <pelis:actor_principal>Elijah Wood</pelis:actor_principal>
+  <pelis:actores_reparto> Ian McKellen, Viggo Mortensen, Sean Astin, Sean Bean, John Rhys-Davies, Orlando Bloom, Dominic Monaghan, Billy Boyd, Cate Blanchett, Hugo Weaving, Liv Tyler, Ian Holm, Christopher Lee, Lawrence Makoare, Craig Parker, Marton Csokas</pelis:actores_reparto>
+  <pelis:calificacion>8.8</pelis:calificacion>
+  <pelis:genero>Fantasia</pelis:genero>
+  <pelis:fecha_estreno>2001</pelis:fecha_estreno>
+  <pelis:duracion>180 min</pelis:duracion>  
+  <pelis:productora>Coproducción EEUU-Nueva Zelanda; New Line Cinema</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>En la Tierra Media, el Señor Oscuro Saurón ordenó a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Pero Saurón también forjó, en secreto, el Anillo Único, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión es casi suicida pero necesaria, pues si Sauron con su ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media.</pelis:sinopsis>
+  <pelis:premios>2001: 4 Oscars: mejor fotografía, bso, efectos visuales y maquillaje. 13 nominaciones. 2001: 4 nominaciones al Globo de Oro: Mejor director, película - drama, bso, canción. 2001: 4 Premios BAFTA, incluyendo mejor película y director. 12 nominaciones. 2001: 2 premios National Board of Review: Diseño de producción, dirección artística. 2001: Asociación de Críticos de Los Angeles: Mejor banda sonora</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="star-wars-Episodio-V-El-imperio-contraataca">
+<pelis:nombre>Star Wars episodio V el imperio contraataca</pelis:nombre>
+  <pelis:director>Irvin Kershner</pelis:director>
+  <pelis:guionista>Leigh Brackett, Lawrence Kasdan (Historia: George Lucas)</pelis:guionista>
+  <pelis:actor_principal>Mark Hamill</pelis:actor_principal>
+  <pelis:actores_reparto>  Harrison Ford, Carrie Fisher, Frank Oz, Billy Dee Williams, David Prowse, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, Jeremy Bulloch, Kenneth Colley, Bruce Boa, Julian Glover, Denis Lawson, Michael Culver, John Ratzenberger, Michael Sheard</pelis:actores_reparto>
+  <pelis:calificacion>8.8</pelis:calificacion>
+  <pelis:genero>Ciencia ficcion</pelis:genero>
+  <pelis:fecha_estreno>1980</pelis:fecha_estreno>
+  <pelis:duracion>124 min</pelis:duracion>  
+  <pelis:productora>20th Century Fox</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader. </pelis:sinopsis>
+  <pelis:premios>1980: 2 Oscars: Mejor sonido, efectos visuales (premio especial). 4 nominaciones. 1980: Globos de Oro: Nominada Mejor banda sonora original</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El-origen">
+<pelis:nombre>El origen</pelis:nombre>
+  <pelis:director>Christopher Nolan</pelis:director>
+  <pelis:guionista>Christopher Nolan</pelis:guionista>
+  <pelis:actor_principal>Leonardo DiCaprio</pelis:actor_principal>
+  <pelis:actores_reparto> Joseph Gordon-Levitt, Ellen Page, Ken Watanabe, Marion Cotillard, Tom Hardy, Cillian Murphy, Tom Berenger, Michael Caine, Dileep Rao, Lukas Haas, Pete Postlethwaite, Talulah Riley, Miranda Nolan</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>Thriller</pelis:genero>
+  <pelis:fecha_estreno>1980</pelis:fecha_estreno>
+  <pelis:duracion>148 min</pelis:duracion>  
+  <pelis:productora>Coproducción USA-Reino Unido Warner Bros. Pictures / Legendary Pictures / Syncopy Production</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Dom Cobb (DiCaprio) es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. La extraña habilidad de Cobb le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo y, por consiguiente, a renunciar a llevar una vida normal. Su única oportunidad para cambiar de vida será hacer exactamente lo contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. Sin embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo Cobb podrá descubrir. </pelis:sinopsis>
+  <pelis:premios> 4 Oscars: mejor fotografía, sonido, ef. sonoros y visuales. 8 nominaciones. 2010: Globos de Oro: 4 nominaciones: mejor película drama, director, guión, BSO </pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="Forrest-Gump">
+<pelis:nombre>Forrest Gump</pelis:nombre>
+  <pelis:director>Robert Zemeckis</pelis:director>
+  <pelis:guionista>Eric Roth (Novela: Winston Groom)</pelis:guionista>
+  <pelis:actor_principal>Tom Hanks</pelis:actor_principal>
+  <pelis:actores_reparto>  Robin Wright Penn, Gary Sinise, Mykelti Williamson, Sally Field, Rebecca Williams, Michael Conner Humphreys, Harold G. Herthum, Haley Joel Osment, George Kelly, Bob Penny, John Randall, Sam Anderson, Margo Moorer, Ione M. Telech, Christine Seabrook</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>Drama</pelis:genero>
+  <pelis:fecha_estreno>1994</pelis:fecha_estreno>
+  <pelis:duracion>142 min</pelis:duracion>  
+  <pelis:productora>Paramount Pictures</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida. </pelis:sinopsis>
+  <pelis:premios> 2010:1994: 6 Oscars: incluyendo película, director, actor (Tom Hanks). 13 nom. 1994: 3 Globos de Oro: Película: Drama, director, actor drama (Hanks). 7 nom. 1994: BAFTA: Mejores efectos visuales. 8 nominaciones, inc. mejor película</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El-senor-de-los-anillos-Las-dos-torres">
+  <pelis:nombre>El señor de los anillos Las dos torres</pelis:nombre>
+  <pelis:director>Peter Jackson</pelis:director>
+  <pelis:guionista>Peter Jackson, Frances Walsh, Philippa Boyens, Stephen Sinclair (Novela: J.R.R. Tolkien)</pelis:guionista>
+  <pelis:actor_principal>Elijah Wood</pelis:actor_principal>
+  <pelis:actores_reparto>  Viggo Mortensen, Ian McKellen, Sean Astin, Andy Serkis, John Rhys-Davies, Orlando Bloom, Bernard Hill, Miranda Otto, David Wenham, Dominic Monaghan, Billy Boyd, Christopher Lee, Liv Tyler, Karl Urban, Brad Dourif, Hugo Weaving, Cate Blanchett, Craig Parker, John Leigh, Sean Bean, John Noble </pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>Fantasia</pelis:genero>
+  <pelis:fecha_estreno>2002</pelis:fecha_estreno>
+  <pelis:duracion>179 min</pelis:duracion>  
+  <pelis:productora>Coproducción USA-Nueva Zelanda; New Line Cinema</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida. </pelis:sinopsis>
+  <pelis:premios> 2002: 2 Oscars: mejores efectos sonoros y mejores efectos visuales. 6 nominaciones. 2002: Globos de Oro: 2 nominaciones: Mejor director y película - drama. 2002: 2 Premios BAFTA: Mejor diseño de vestuario y efectos visuales. 9 nominaciones. 2002: American Film Institute (AFI): Top 10 - Mejores películas del año. 2002: Critics' Choice Awards: Nominada a mejor película y compositor (Shore)</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Interstellar">
+<pelis:nombre>Interstellar</pelis:nombre>
+  <pelis:director>Christopher Nolan</pelis:director>
+  <pelis:guionista>Jonathan Nolan, Christopher Nolan (Historia: Kip Thorne)</pelis:guionista>
+  <pelis:actor_principal>Matthew McConaughey</pelis:actor_principal>
+  <pelis:actores_reparto> Anne Hathaway, David Gyasi, Jessica Chastain, Mackenzie Foy, Matt Damon, Michael Caine, John Lithgow, Casey Affleck, Timothée Chalamet, Wes Bentley, Ellen Burstyn, Topher Grace, David Oyelowo, Collette Wolfe, Leah Cairns </pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>Ciencia ficcion</pelis:genero>
+  <pelis:fecha_estreno>2014</pelis:fecha_estreno>
+  <pelis:duracion>169 min</pelis:duracion>  
+  <pelis:productora>Warner Bros. / Syncopy / Paramount Pictures / Legendary Pictures / Lynda Obst Productions</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores liderados por el piloto Cooper (McConaughey) y la científica Amelia (Hathaway) se embarca en la que puede ser la misión más importante de la historia de la humanidad y emprenden un viaje más allá de nuestra galaxia en el que descubrirán si las estrellas pueden albergar el futuro de la raza humana.  </pelis:sinopsis>
+  <pelis:premios> 2014: Premios Oscar: 5 nominaciones incluyendo Mejor banda sonora. 2014: Globos de Oro: Nominada a Mejor banda sonora original</pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="Uno-de-los-nuestros">
+  <pelis:nombre></pelis:nombre>
+  <pelis:director>Martin Scorsese</pelis:director>
+  <pelis:guionista>Nicholas Pileggi, Martin Scorsese (Novela: Nicholas Pileggi)</pelis:guionista>
+  <pelis:actor_principal>Robert De Niro, Ray Liotta</pelis:actor_principal>
+  <pelis:actores_reparto> Joe Pesci, Lorraine Bracco, Paul Sorvino, Debi Mazar, Mike Starr, Tony Darrow, Frank Sivero, Frank Vincent, Chuck Low, Frank DiLeo, Clem Caserta, Illeana Douglas, Melissa Prophet, Samuel L. Jackson, Michael Imperioli, Tobin Bell, Billy L. Sullivan, Frank Adonis, Louis Eppolito, Victor Colicchio, Isiah Whitlock Jr., Tony Sirico, Vincent Pastore</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>Mafia.</pelis:genero>
+  <pelis:fecha_estreno>1990</pelis:fecha_estreno>
+  <pelis:duracion>148 min</pelis:duracion>  
+  <pelis:productora>Warner Bros.</pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Henry Hill, hijo de padre irlandés y madre siciliana, vive en Brooklyn y se siente fascinado por la vida que llevan los gángsters de su barrio, donde la mayoría de los vecinos son inmigrantes. Paul Cicero, el patriarca de la familia Pauline, es el protector del barrio. A los trece años, Henry decide abandonar la escuela y entrar a formar parte de la organización mafiosa como chico de los recados; muy pronto se gana la confianza de sus jefes, gracias a lo cual irá subiendo de categoría. </pelis:sinopsis>
+  <pelis:premios>1990: Oscar: Mejor actor secundario (Joe Pesci). 6 nominaciones. 1990: Globos de Oro: 5 nominaciones, incluyendo Drama, Director y Actor Sec.</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrix">
+  <pelis:nombre>Matrix</pelis:nombre>
+  <pelis:director>Andy Wachowski, Lana Wachowski (AKA Larry Wachowski)</pelis:director>
+  <pelis:guionista>Andy Wachowski, Lana Wachowski (AKA Larry Wachowski)</pelis:guionista>
+  <pelis:actor_principal>Keanu Reeves</pelis:actor_principal>
+  <pelis:actores_reparto> Laurence Fishburne, Carrie-Anne Moss, Joe Pantoliano, Hugo Weaving, Marcus Chong, Gloria Foster, Matt Doran, Belinda McClory, Julian Arahanga, Anthony Ray Parker, Paul Goddard, Robert Taylor, Marc Aden Gray</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>Ciencia ficcion</pelis:genero>
+  <pelis:fecha_estreno>1999</pelis:fecha_estreno>
+  <pelis:duracion>131 min</pelis:duracion>  
+  <pelis:productora>Warner Bros / Village Roadshow Pictures / Groucho II Film Partnership. Productor: Joel Silver </pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>Thomas Anderson es un brillante programador de una respetable compañía de software. Pero fuera del trabajo es Neo, un hacker que un día recibe una misteriosa visita... </pelis:sinopsis>
+  <pelis:premios>1999: 4 Oscars: Mejor montaje, sonido, efectos visuales, efectos sonoros. 1999: 2 Premios BAFTA: Mejores efectos visuales y sonido. 5 nominaciones</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La-guerra-de-las-galaxias-Episodio-IV-Una-nueva-esperanza">
+  <pelis:nombre>La guerra de la galaxias episodio IV una nueva esperanza</pelis:nombre>
+  <pelis:director>George Lucas</pelis:director>
+  <pelis:guionista>George Lucas</pelis:guionista>
+  <pelis:actor_principal>Mark Hamill</pelis:actor_principal>
+  <pelis:actores_reparto> Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, David Prowse, Peter Mayhew, Anthony Daniels, Kenny Baker, Phil Brown, Shelagh Fraser, Garrick Hagon, Denis Lawson, Alex McCrindle, Richard LeParmentier, Drewe Henley, Jack Purvis, Don Henderson, William Hootkins, Malcolm Tierney</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>Ciencia ficcion</pelis:genero>
+  <pelis:fecha_estreno>1977</pelis:fecha_estreno>
+  <pelis:duracion>121 min</pelis:duracion>  
+  <pelis:productora>20th Century Fox / Lucasfilm Ltd. Production </pelis:productora>
+  <pelis:pais>Estados Unidos</pelis:pais>
+  <pelis:sinopsis>La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del Emperador. El intrépido y joven Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial "El Halcón Milenario", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y e intentar rescatar a la princesa para volver a instaurar la justicia en el seno de la galaxia.</pelis:sinopsis>
+  <pelis:premios>1977: 7 Oscars: dir. artística, bso, sonido, montaje, vestuario, efectos visuales. Premio especial a los efectos de sonido. 1977: Globos de Oro: Mejor banda sonora original. 4 nominaciones. 1977: 2 Premios BAFTA: sonido y música. 6 nominaciones</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ciudad-de-dios">
+  <pelis:nombre>Ciudad de dios</pelis:nombre>
+  <pelis:director>Fernando Meirelles, Kátia Lund</pelis:director>
+  <pelis:guionista>Braulio Mantovani (Novela: Paulo Lins)</pelis:guionista>
+  <pelis:actor_principal>Alexandre Rodrigues</pelis:actor_principal>
+  <pelis:actores_reparto>  Leandro Firmino, Phellipe Haagensen, Douglas Silva, Seu Jorge, Jonathan Haagensen, Matheus Nachtergaele, Jefechander Suplino, Alice Braga, Emerson Gomes, Luis Otávio, Babu Santana, Gero Camilo</pelis:actores_reparto>
+  <pelis:calificacion>8.6</pelis:calificacion>
+  <pelis:genero>Drama</pelis:genero>
+  <pelis:fecha_estreno>2002</pelis:fecha_estreno>
+  <pelis:duracion>130 min</pelis:duracion>  
+  <pelis:productora>O2 Filmes / VideoFilmes / Globo Filmes / Wild Bunch</pelis:productora>
+  <pelis:pais>Brasil</pelis:pais>
+  <pelis:sinopsis>Basada en hechos reales, describe el mundo del crimen organizado en Cidade de Deus, un suburbio de Río de Janeiro, desde finales de los sesenta hasta principios de los ochenta, época durante la cual el tráfico de drogas y la violencia impusieron su ley en las favelas. A finales de los sesenta, Buscapé, un niño de 11 años tímido y sensible, observa a los niños duros de su barrio, sus robos, sus peleas, sus enfrentamientos diarios con la policía. Pero él sabe muy bien lo que quiere ser si consigue sobrevivir: fotógrafo. Dadinho, un niño de su edad que se traslada al barrio, sueña con ser el criminal más peligroso de Río de Janeiro y empieza su aprendizaje haciendo recados para los delincuentes locales. Admira a Cabeleira y su pandilla, que se dedican a atracar los camiones del gas. Un día Cabeleira le da a Dadinho la oportunidad de cometer su primer asesinato.</pelis:sinopsis>
+  <pelis:premios>2003: 4 nominaciones al Oscar: Mejor director, fotografía, montaje, guión adaptado. 2002: Globos de oro: Nominada Mejor película de habla no inglesa</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Lost">
+  <series:nombre>Lost</series:nombre>
+  <series:genero>Thriller</series:genero>
+  <series:director>Jack Bender</series:director>
+  <series:guionista>J. J. Abrams, Damon Lindelof</series:guionista>
+  <series:actor_principal>Adewale_Akinnuoye-Agbaje</series:actor_principal>
+  <series:actores_reparto>Adewale Akinnuoye-Agbaje, Sam Anderson, Naveen Andrews, L. Scott Caldwell, Nestor Carbonell, François Chau, Henry Ian Cusick, Jeremy Davies, Emilie de Ravin, Michael Emerson, Jeff Fahey, Fionnula Flanagan, Matthew Fox, Jorge García, Maggie Grace, Josh Holloway, Malcolm David Kelley, Daniel Dae Kim, Yunjin Kim, Ken Leung, Evangeline Lilly, Rebecca Mader, Elizabeth Mitchell, Dominic Monaghan</series:actores_reparto>
+  <series:calificacion>9.3</series:calificacion>
+  <series:temporadas>6</series:temporadas>
+  <series:episodios>121</series:episodios>
+  <series:duracion_capitulo>43 minutos</series:duracion_capitulo>
+  <series:productora>Touchstone Television ABC Studios</series:productora>
+  <series:pais>Estados Unidos</series:pais>
+  <series:fecha_estreno>22 de septiembre de 2004</series:fecha_estreno>
+  <series:fecha_fin>23 de octubre de 2010</series:fecha_fin>
+  
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Leonardo DiCAprio">
+  <actores:nombre>Leonardo DiCaprio</actores:nombre>
+  <actores:edad>40 años</actores:edad>
+  <actores:Lugar_Nacimiento>Los Ángeles, California, Estados Unidos</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1989</actores:inicio_carrera>
+  <actores:premios>Globos de Oro: Mejor actor - Drama 2004 The Aviator. Globos de Oro: Mejor actor - Comedia o musical 2013 The Wolf of Wall Street</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Mark Hamill">
+  <actores:nombre>Mark Hamill</actores:nombre>
+  <actores:edad>63 años</actores:edad>
+  <actores:Lugar_Nacimiento>Concord, California, (Estados Unidos)</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1978</actores:inicio_carrera>
+  <actores:premios>Ninguno</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Keanu Reeves">
+  <actores:nombre>Keanu Reeves</actores:nombre>
+  <actores:edad>50 años</actores:edad>
+  <actores:Lugar_Nacimiento>Beirut, Líbano</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1985</actores:inicio_carrera>
+  <actores:premios>Ninguno</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/John Travolta">
+  <actores:nombre>John Travolta</actores:nombre>
+  <actores:edad>60 años</actores:edad>
+  <actores:Lugar_Nacimiento>Englewood, Nueva Jersey, Estados Unidos</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1969</actores:inicio_carrera>
+  <actores:premios>Globos de Oro  Mejor actor - Comedia o musical 1996 Get Shorty'</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Elijah Wood">
+  <actores:nombre>Elijah Wood</actores:nombre>
+  <actores:edad>30 años</actores:edad>
+  <actores:Lugar_Nacimiento>Cedar Rapids (Iowa, Estados Unidos)</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1988</actores:inicio_carrera>
+  <actores:premios>Premios SAG:Mejor reparto 2003 El Señor de los Anillos: el retorno del Rey</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Al Pacino">
+  <actores:nombre>Al Pacino</actores:nombre>
+  <actores:edad>74 años</actores:edad>
+  <actores:Lugar_Nacimiento> East Harlem, Manhattan, Nueva York, Nueva York,Estados Unidos</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1968</actores:inicio_carrera>
+  <actores:premios>Premios Óscar:  Mejor actor 1992 Scent of a Woman.Globos de Oro:  Mejor actor - Drama 1974. Serpico 1993 Scent of a Woman</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Marlon Brando">
+  <actores:nombre>Marlon Brando</actores:nombre>
+  <actores:edad>80 años</actores:edad>
+  <actores:Lugar_Nacimiento> Omaha, Estados Unidos</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1945</actores:inicio_carrera>
+  <actores:premios>Premios Óscar:  Mejor actor - 1954 On the Waterfront. 1972 El Padrino</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Brad Pitt">
+  <actores:nombre>Brad Pitt</actores:nombre>
+  <actores:edad>51 años</actores:edad>
+  <actores:Lugar_Nacimiento> Shawnee, Oklahoma, Estados Unidos</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1987</actores:inicio_carrera>
+  <actores:premios>Premios Óscar: Mejor película- 2013 12 years a slave. 2006 The departed</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.wikipedia.org/Matthew McConaughey">
+  <actores:nombre>Matthew McConaughey</actores:nombre>
+  <actores:edad>45 años</actores:edad>
+  <actores:Lugar_Nacimiento> Uvalde, Texas, Estados Unidos</actores:Lugar_Nacimiento>
+  <actores:inicio_carrera>1987</actores:inicio_carrera>
+  <actores:premios>Premios Óscar:  Mejor actor - 2013 Dallas Buyers Club</actores:premios>
+
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+% Autor:
+% Fecha: 10/11/2014
+
+      concatenar([],L2,L2).
+      concatenar(L1,[],L1).
+      concatenar([X1|R1],[X2|R2],LR):- concatenar(R1,[X2|R2],RR),LR=[X1|RR].
+
+      borra3u(Lista,ListaR):- concatenar(ListaR,[_X,_Y,_Z], Lista).
+      
+      pertenece(X,Lista):-concatenar( [X], _Resto, Lista ).
+      pertenece(X,Lista):-concatenar(_Sublista,[X|_Resto],Lista).

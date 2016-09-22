@@ -1,0 +1,1385 @@
+﻿%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Autores:   Lopez Bollo Jonathan         %
+%              Peralta Rosales Oscar Esaú %
+%              Ventura Mijangos Geovanni  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:pelis="http://www.peliculas.com/"
+xmlns:series="http://www.series.com/"
+xmlns:actores="http://www.actores.com/"
+xmlns:directores="http://www.directores.com/"
+>
+
+
+<rdf:Description rdf:about="cadena_perpetua">
+  <pelis:nombre>cadena perpetua</pelis:nombre>
+  <pelis:director>frank darabont</pelis:director>
+  <pelis:guionista>frank darabont</pelis:guionista>
+  <pelis:actor_principal>tim robbins</pelis:actor_principal>
+  <pelis:actores_reparto>morgan freeman, bob gunton, james whitmore, gil bellows, william sadler, mark rolston, clancy brown, david proval, jeffrey demunn, jude ciccolella, don mcmanus, alfonso freeman</pelis:actores_reparto>
+  <pelis:calificacion>9.2</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1994</pelis:fecha_estreno>
+  <pelis:duracion>143 min</pelis:duracion>  
+  <pelis:productora>columbia pictures</pelis:productora>
+  <pelis:pais>estado unidos</pelis:pais>
+  <pelis:sinopsis>acusado del asesinato de su mujer, andrew dufresne (tim robbins), tras ser condenado a cadena perpetua, es enviado a la cárcel de shawshank. 
+con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros de prisión, especialmente de red (morgan freeman), 
+el jefe de la mafia de los sobornos.</pelis:sinopsis>
+  <pelis:premios>
+1994: 7 nominaciones al oscar, incluyendo mejor película, actor (morgan freeman)
+1994: 2 nominaciones al globo de oro: mejor actor drama (freeman), guión
+</pelis:premios>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="el_padrino">
+  <pelis:nombre>el padrino</pelis:nombre>
+  <pelis:director>francis ford coppola</pelis:director>
+  <pelis:guionista>mario puzo</pelis:guionista>
+  <pelis:actor_principal>marlon brando</pelis:actor_principal>
+  <pelis:actores_reparto> al pacino, james caan, robert duvall, diane keaton, john cazale, talia shire, richard castellano, sterling hayden, gianni russo, rudy bond, john marley, richard conte, al lettieri, abe vigoda, franco citti, lenny montana, al martino, joe spinell, simonetta stefanelli, morgana king, alex rocco, john martino, salvatore corsitto</pelis:actores_reparto>
+  <pelis:calificacion>9.2</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1972</pelis:fecha_estreno>
+  <pelis:duracion>143 min</pelis:duracion>  
+  <pelis:productora>paramount pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>américa, años 40. don vito corleone (marlon brando) es el respetado y temido jefe de una de las cinco familias de la mafia de nueva york. tiene cuatro hijos: connie (talia shire), el impulsivo sonny (james caan), el pusilánime freddie (john cazale) y michael (al pacino), que no quiere saber nada de los negocios de su padre. cuando corleone, en contra de los consejos de 'il consigliere' tom hagen (robert duvall), se niega a intervenir en el negocio de las drogas, el jefe de otra banda ordena su asesinato. empieza entonces una violenta y cruenta guerra entre las familias mafiosas.</pelis:sinopsis>
+  <pelis:premios>
+1972: 3 oscars: mejor película, actor (marlon brando), guión adaptado. 10 nom.
+1972: 5 globos de oro: película (drama), director, actor (brando), guión y bso
+1972: círculo de críticos de nueva york: mejor actor de reparto (duvall)
+1972: premios david di donatello: mejor film extranjero
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="el-padrino-parte-ii">
+  <pelis:nombre>el padrino parte 2</pelis:nombre>
+  <pelis:director>francis ford coppola</pelis:director>
+  <pelis:guionista>mario puzo</pelis:guionista>
+  <pelis:actor_principal>al pacino</pelis:actor_principal>
+  <pelis:actores_reparto>robert de niro, diane keaton, robert duvall, john cazale, lee strasberg, talia shire, gastone moschin, michael v. gazzo, marianna hill, bruno kirby, danny aiello, harry dean stanton, troy donahue, roger corman, morgana king, joe spinell, richard bright, james caan, dominic chianese, francesca de sapio, g. d. spradlin, frank siver, tito alba, oreste baldini</pelis:actores_reparto>
+  <pelis:calificacion>9.0</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1974</pelis:fecha_estreno>
+  <pelis:duracion>200 min</pelis:duracion>  
+  <pelis:productora>paramount pictures / albert s. ruddy production</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>continuación de la historia de los corleone por medio de dos historias paralelas: la elección de michael corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido don vito, primero en sicilia y luego en estados unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de nueva york.</pelis:sinopsis>
+  <pelis:premios>
+1974: 6 oscars, incluyendo película, director, actor de reparto (de niro). 11 nom.
+1974: globos de oro: 6 nominaciones, incluyendo mejor película - drama
+1974: círculo de críticos de nueva york: 3 nominaciones
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="batman-el-caballero-oscuro">
+  <pelis:nombre>el caballero oscuro</pelis:nombre>
+  <pelis:director>christopher nolan</pelis:director>
+  <pelis:guionista>jonathan nolan</pelis:guionista>
+  <pelis:actor_principal>christian bale</pelis:actor_principal>
+  <pelis:actores_reparto> heath ledger, aaron eckhart, michael caine, gary oldman, morgan freeman, maggie gyllenhaal, eric roberts, cillian murphy, michael jai white, william fichtner, monique gabriela curnen, chin han, nestor carbonell, ritchie coster, keith szarabajka, ron dean, colin mcfarlane, joshua harto, melinda mcgraw, nathan gamble, michael vieau, tommy 'tiny' lister</pelis:actores_reparto>
+  <pelis:calificacion>8.9</pelis:calificacion>
+  <pelis:genero>thriller</pelis:genero>
+  <pelis:fecha_estreno>2008</pelis:fecha_estreno>
+  <pelis:duracion>152 min</pelis:duracion>  
+  <pelis:productora>warner bros</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>batman/bruce wayne (christian bale) regresa para continuar su guerra contra el crimen. con la ayuda del teniente jim gordon (gary oldman) y del fiscal del distrito harvey dent (aaron eckhart), batman se propone destruir el crimen organizado en la ciudad de gotham. el triunvirato demuestra su eficacia, pero, de repente, aparece joker (heath ledger), un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.</pelis:sinopsis>
+  <pelis:premios>
+2008: 2 oscar: mejor actor secundario (h. ledger) y montaje sonido. 8 nominaciones
+2008: globo de oro: mejor actor secundario (heath ledger)
+2008: premios bafta: mejor actor secundario (heath ledger). 9 nominaciones
+2008: festival de toronto: mejor actor secundario (heath ledger)
+2008: premios goya: nominada a la mejor película europea
+2008: asociación de críticos de los angeles: mejor actor secundario (h. ledger)
+2008: american film institute: top 10 - mejores películas del año
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="pulp-fiction">
+  <pelis:nombre>pulp fiction</pelis:nombre>
+  <pelis:director>quentin tarantino</pelis:director>
+  <pelis:guionista>quentin tarantino</pelis:guionista>
+  <pelis:actor_principal>john travolta</pelis:actor_principal>
+  <pelis:actores_reparto> samuel l. jackson, uma thurman, bruce willis, harvey keitel, eric stoltz, tim roth, maria de medeiros, amanda plummer, ving rhames, rosanna arquette, christopher walken, quentin tarantino, peter greene, phil lamarr, paul calderon, burr steers, frank whaley, steve buscemi</pelis:actores_reparto>
+  <pelis:calificacion>9.0</pelis:calificacion>
+  <pelis:genero>crimen</pelis:genero>
+  <pelis:fecha_estreno>1994</pelis:fecha_estreno>
+  <pelis:duracion>200 min</pelis:duracion>  
+  <pelis:productora>miramax films</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>jules y vincent, dos asesinos a sueldo con muy pocas luces, trabajan para marsellus wallace. vincent le confiesa a jules que marsellus le ha pedido que cuide de mia, su mujer. jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. su misión: recuperar un misterioso maletín.</pelis:sinopsis>
+  <pelis:premios>
+1994: oscar: mejor guión original. 7 nominaciones, incluyendo mejor película
+1994: globo de oro: mejor guión. 6 nominaciones
+1994: festival de cannes: palma de oro - mejor película
+1994: 2 premios bafta: mejor actor sec. (samuel l. jackson) y guión. 9 nom.
+1994: premios cesar: nominada a la mejor película extranjera
+1994: premios david di donatello: mejor film y actor extranjero (travolta). 3 nom.
+1994: national board of review: mejor película (ex-aequo)
+1994: círculo de críticos de nueva york: mejor director y mejor guión. 5 nom.
+1994: asociación de críticos de los angeles: mejor película, director, actor y guión
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="la-lista-de-schindler">
+  <pelis:nombre>la lista de schindler</pelis:nombre>
+  <pelis:director>steven spielberg</pelis:director>
+  <pelis:guionista>steven zaillian</pelis:guionista>
+  <pelis:actor_principal>liam neeson</pelis:actor_principal>
+  <pelis:actores_reparto>ben kingsley, ralph fiennes, caroline goodall, jonathan sagall, embeth davidtz, norbert weisser, martin s. bergmann, mark ivanir, malgorzata gebel, shmuel levy, michael schneider, joachim paul assböck, branko lustig, götz otto</pelis:actores_reparto>
+  <pelis:calificacion>8.9</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1993</pelis:fecha_estreno>
+  <pelis:duracion>195 min</pelis:duracion>  
+  <pelis:productora>universal pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>segunda guerra mundial (1939-1945). oskar schindler (liam neeson), un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. después de la invasión de polonia por los alemanes (1939), consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de cracovia. allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. su gerente (ben kingsley), también judío, es el verdadero director en la sombra, pues schindler carece completamente de conocimientos para dirigir una empresa.</pelis:sinopsis>
+  <pelis:premios>    
+1994: premios cesar: nominada a la mejor película extranjera
+1993: 7 oscars: película, director, guión, montaje, música, dirección artística, fotografía
+1993: 3 globos de oro: película: drama, guión, director. 6 nominaciones
+1993: 7 premios bafta, incluyendo mejor película y director. 13 nominaciones
+1993: national board of review: mejor película
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="el-senor-de-los-anillos-el-retorno-del-rey">
+  <pelis:nombre>el señor de los anillos el retorno del rey</pelis:nombre>
+  <pelis:director>peter jackson</pelis:director>
+  <pelis:guionista>tolkien</pelis:guionista>
+  <pelis:actor_principal>elijah wood</pelis:actor_principal>
+  <pelis:actores_reparto> viggo mortensen, ian mckellen, sean astin, andy serkis, john rhys-davies, orlando bloom, john noble, miranda otto, david wenham, bernard hill, billy boyd, dominic monaghan, liv tyler, karl urban, christopher lee, brad dourif, ian holm, hugo weaving, cate blanchett, lawrence makoare, marton csokas, sean bean</pelis:actores_reparto>
+  <pelis:calificacion>8.9</pelis:calificacion>
+  <pelis:genero>fantasia</pelis:genero>
+  <pelis:fecha_estreno>2001</pelis:fecha_estreno>
+  <pelis:duracion>201 min</pelis:duracion>  
+  <pelis:productora>new line</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>las fuerzas de saruman han sido destruidas, y su fortaleza sitiada. ha llegado el momento de decidir el destino de la tierra media, y, por primera vez, parece que hay una pequeña esperanza. el interés del señor oscuro sauron se centra ahora en gondor, el último reducto de los hombres, cuyo trono será reclamado por aragorn. sauron se dispone a lanzar un ataque decisivo contra gondor. mientras tanto, frodo y sam continuan su camino hacia mordor, con la esperanza de llegar al monte del destino.</pelis:sinopsis>
+  <pelis:premios>    
+2003: 11 premios oscar, incluyendo mejor película y mejor director. 11 nominaciones
+2003: 4 globos de oro: mejor película dramática, director, bso, canción original
+2003: 4 premios bafta, incluyendo mejor película y guión adaptado. 12 nominaciones
+2003: national board of review: mejor reparto
+2003: círculo de críticos de nueva york: mejor película
+2003: asociación de críticos de los angeles: mejor director y diseño de producción
+2003: festival de toronto: mejor director (peter jackson)
+2003: american film institute (afi): top 10 - mejores películas del año
+2003: 4 critics' choice awards: mejor película, director, reparto y compositor
+2003: asociación de críticos de chicago: mejor película, director y banda sonora
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="el-club-de-la-pelea">
+  <pelis:nombre>el club de la pelea</pelis:nombre>
+  <pelis:director>david fincher</pelis:director>
+  <pelis:guionista>jim uhls</pelis:guionista>
+  <pelis:actor_principal>edward norton</pelis:actor_principal>
+  <pelis:actores_reparto>brad pitt, edward norton, helena bonham carter, meat loaf, jared leto, van quattro, markus redmond, michael girardin, rachel singer, eion bailey</pelis:actores_reparto>
+  <pelis:calificacion>8.8</pelis:calificacion>
+  <pelis:genero>thriller</pelis:genero>
+  <pelis:fecha_estreno>1999</pelis:fecha_estreno>
+  <pelis:duracion>139 min</pelis:duracion>  
+  <pelis:productora>fox</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>un joven hastiado de su gris y monótona vida lucha contra el insomnio. en un viaje en avión conoce a un carismático vendedor de jabón que sostiene una teoría muy particular: el perfeccionismo es cosa de gentes débiles; sólo la autodestrucción hace que la vida merezca la pena. ambos deciden entonces fundar un club secreto de lucha, donde poder descargar sus frustaciones y su ira, que tendrá un éxito arrollador.</pelis:sinopsis>
+  <pelis:premios>1999: nominada al oscar: mejores efectos de sonido</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="el-senor-de-los-anillos-la-comunidad-del-nillo">
+  <pelis:nombre>el señor de los anillos la comunidad del anillo</pelis:nombre>
+  <pelis:director>peter jackson</pelis:director>
+  <pelis:guionista>frances walsh, philippa boyens, peter jackson (novela: j.r.r. tolkien)</pelis:guionista>
+  <pelis:actor_principal>elijah wood</pelis:actor_principal>
+  <pelis:actores_reparto> ian mckellen, viggo mortensen, sean astin, sean bean, john rhys-davies, orlando bloom, dominic monaghan, billy boyd, cate blanchett, hugo weaving, liv tyler, ian holm, christopher lee, lawrence makoare, craig parker, marton csokas</pelis:actores_reparto>
+  <pelis:calificacion>8.8</pelis:calificacion>
+  <pelis:genero>fantasia</pelis:genero>
+  <pelis:fecha_estreno>2001</pelis:fecha_estreno>
+  <pelis:duracion>180 min</pelis:duracion>  
+  <pelis:productora>new line</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>en la tierra media, el señor oscuro saurón ordenó a los elfos que forjaran los grandes anillos de poder. tres para los reyes elfos, siete para los señores enanos, y nueve para los hombres mortales. pero saurón también forjó, en secreto, el anillo único, que tiene el poder de esclavizar toda la tierra media. con la ayuda de sus amigos y de valientes aliados, el joven hobbit frodo emprende un peligroso viaje con la misión de destruir el anillo único. pero el malvado sauron ordena la persecución del grupo, compuesto por frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. la misión es casi suicida pero necesaria, pues si sauron con su ejército de orcos lograra recuperar el anillo, sería el final de la tierra media.</pelis:sinopsis>
+  <pelis:premios>    
+2001: 4 oscars: mejor fotografía, bso, efectos visuales y maquillaje. 13 nominaciones
+2001: 4 nominaciones al globo de oro: mejor director, película - drama, bso, canción
+2001: 4 premios bafta, incluyendo mejor película y director. 12 nominaciones
+2001: 2 premios national board of review: diseño de producción, dirección artística
+2001: asociación de críticos de los angeles: mejor banda sonora
+2001: saturn awards: mejor película de fantasía, director, actor sec. (mckellen). 9 nom.
+2001: instituto de cine australiano: mejor película extranjera
+2001: american film institute (afi): top 10 - mejores películas del año
+2001: 2 critics' choice awards: mejor compositor (shore), canción. 4 nominaciones
+2001: asociación de críticos de chicago: mejor banda sonora y mejor fotografía
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="star-wars-episodio-v-el-imperio-contraataca">
+<pelis:nombre>star wars episodio v el imperio contraataca</pelis:nombre>
+  <pelis:director>irvin kershner</pelis:director>
+  <pelis:guionista>leigh brackett, lawrence kasdan (historia: george lucas)</pelis:guionista>
+  <pelis:actor_principal>mark hamill</pelis:actor_principal>
+  <pelis:actores_reparto>  harrison ford, carrie fisher, frank oz, billy dee williams, david prowse, alec guinness, anthony daniels, kenny baker, peter mayhew, jeremy bulloch, kenneth colley, bruce boa, julian glover, denis lawson, michael culver, john ratzenberger, michael sheard</pelis:actores_reparto>
+  <pelis:calificacion>8.8</pelis:calificacion>
+  <pelis:genero>ciencia ficcion</pelis:genero>
+  <pelis:fecha_estreno>1980</pelis:fecha_estreno>
+  <pelis:duracion>124 min</pelis:duracion>  
+  <pelis:productora>fox</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, luke skywalker, en compañía de r2d2, parte hacia el planeta dagobah en busca de yoda, el último maestro jedi, para que le enseñe los secretos de la fuerza. mientras, han solo, la princesa leia, chewbacca, y c3po esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del halcón milenario, lando calrissian, en la ciudad minera de bespin, donde les prepara una trampa urdida por darth vader. </pelis:sinopsis>
+  <pelis:premios>    
+1980: 2 oscars: mejor sonido, efectos visuales (premio especial). 4 nominaciones
+1980: globos de oro: nominada mejor banda sonora original
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="el-origen">
+<pelis:nombre>el origen</pelis:nombre>
+  <pelis:director>christopher nolan</pelis:director>
+  <pelis:guionista>christopher nolan</pelis:guionista>
+  <pelis:actor_principal>leonardo dicaprio</pelis:actor_principal>
+  <pelis:actores_reparto> joseph gordon-levitt, ellen page, ken watanabe, marion cotillard, tom hardy, cillian murphy, tom berenger, michael caine, dileep rao, lukas haas, pete postlethwaite, talulah riley, miranda nolan</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>thriller</pelis:genero>
+  <pelis:fecha_estreno>1980</pelis:fecha_estreno>
+  <pelis:duracion>148 min</pelis:duracion>  
+  <pelis:productora>warner bros</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>dom cobb (dicaprio) es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. la extraña habilidad de cobb le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo y, por consiguiente, a renunciar a llevar una vida normal. su única oportunidad para cambiar de vida será hacer exactamente lo contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. sin embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo cobb podrá descubrir </pelis:sinopsis>
+  <pelis:premios> 2010: 4 oscars: mejor fotografía, sonido, ef. sonoros y visuales. 8 nominaciones
+2010: globos de oro: 4 nominaciones: mejor película drama, director, guión, bso
+2010: 3 premios bafta técnicos. 9 nominaciones, incluyendo mejor película y director
+2010: satellite awards: mejor fotografía, dirección artística, bso. 11 nominaciones
+2010: asociación de críticos de los angeles: mejor diseño de producción
+2010: american film institute (afi): top 10 - mejores películas del año
+</pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="forrest-gump">
+<pelis:nombre>forrest gump</pelis:nombre>
+  <pelis:director>robert zemeckis</pelis:director>
+  <pelis:guionista>eric roth</pelis:guionista>
+  <pelis:actor_principal>tom hanks</pelis:actor_principal>
+  <pelis:actores_reparto>  robin wright penn, gary sinise, mykelti williamson, sally field, rebecca williams, michael conner humphreys, harold g. herthum, haley joel osment, george kelly, bob penny, john randall, sam anderson, margo moorer, ione m. telech, christine seabrook</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1994</pelis:fecha_estreno>
+  <pelis:duracion>142 min</pelis:duracion>  
+  <pelis:productora>paramount pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>forrest gump (tom hanks) sufre desde pequeño un cierto retraso mental. a pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella jenny (robin wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida. </pelis:sinopsis>
+  <pelis:premios> 
+1994: 6 oscars: incluyendo película, director, actor (tom hanks). 13 nom.
+1994: 3 globos de oro: película: drama, director, actor drama (hanks). 7 nom.
+1994: bafta: mejores efectos visuales. 8 nominaciones, inc. mejor película
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="el-senor-de-los-anillos-las-dos-torres">
+  <pelis:nombre>el señor de los anillos las dos torres</pelis:nombre>
+  <pelis:director>peter jackson</pelis:director>
+  <pelis:guionista>tolkien</pelis:guionista>
+  <pelis:actor_principal>elijah wood</pelis:actor_principal>
+  <pelis:actores_reparto>  viggo mortensen, ian mckellen, sean astin, andy serkis, john rhys-davies, orlando bloom, bernard hill, miranda otto, david wenham, dominic monaghan, billy boyd, christopher lee, liv tyler, karl urban, brad dourif, hugo weaving, cate blanchett, craig parker, john leigh, sean bean, john noble </pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>fantasia</pelis:genero>
+  <pelis:fecha_estreno>2002</pelis:fecha_estreno>
+  <pelis:duracion>179 min</pelis:duracion>  
+  <pelis:productora>new line</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>forrest gump (tom hanks) sufre desde pequeño un cierto retraso mental. a pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella jenny (robin wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida. </pelis:sinopsis>
+  <pelis:premios>    
+2002: 2 oscars: mejores efectos sonoros y mejores efectos visuales. 6 nominaciones
+2002: globos de oro: 2 nominaciones: mejor director y película - drama
+2002: 2 premios bafta: mejor diseño de vestuario y efectos visuales. 9 nominaciones
+2002: american film institute (afi): top 10 - mejores películas del año
+2002: critics' choice awards: nominada a mejor película y compositor (shore)
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="interstellar">
+<pelis:nombre>interstellar</pelis:nombre>
+  <pelis:director>christopher nolan</pelis:director>
+  <pelis:guionista>jonathan nolan</pelis:guionista>
+  <pelis:actor_principal>matthew mcconaughey</pelis:actor_principal>
+  <pelis:actores_reparto> anne hathaway, david gyasi, jessica chastain, mackenzie foy, matt damon, michael caine, john lithgow, casey affleck, timothée chalamet, wes bentley, ellen burstyn, topher grace, david oyelowo, collette wolfe, leah cairns </pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>ciencia ficcion</pelis:genero>
+  <pelis:fecha_estreno>2014</pelis:fecha_estreno>
+  <pelis:duracion>169 min</pelis:duracion>  
+  <pelis:productora>warner bros</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>al ver que la vida en la tierra está llegando a su fin, un grupo de exploradores liderados por el piloto cooper (mcconaughey) y la científica amelia (hathaway) se embarca en la que puede ser la misión más importante de la historia de la humanidad y emprenden un viaje más allá de nuestra galaxia en el que descubrirán si las estrellas pueden albergar el futuro de la raza humana.  </pelis:sinopsis>
+  <pelis:premios>     
+2014: premios oscar: 5 nominaciones incluyendo mejor banda sonora
+2014: globos de oro: nominada a mejor banda sonora original
+2014: premios bafta: 4 nominaciones incluyendo mejor música banda sonora
+2014: american film institute (afi): top 10 - mejores películas del año
+2014: satellite awards: 3 nominaciones incluyendo mejor fotografía
+2014: critics choice awards: mejor película de ciencia ficción
+2014: críticos de chicago: 4 nominaciones incluyendo mejor director
+</pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="uno-de-los-nuestros">
+  <pelis:nombre>uno de los nuestros</pelis:nombre>
+  <pelis:director>martin scorsese</pelis:director>
+  <pelis:guionista>nicholas pileggi, martin scorsese (novela: nicholas pileggi)</pelis:guionista>
+  <pelis:actor_principal>robert de niro</pelis:actor_principal>
+  <pelis:actores_reparto> joe pesci, lorraine bracco, paul sorvino, debi mazar, mike starr, tony darrow, frank sivero, frank vincent, chuck low, frank dileo, clem caserta, illeana douglas, melissa prophet, samuel l. jackson, michael imperioli, tobin bell, billy l. sullivan, frank adonis, louis eppolito, victor colicchio, isiah whitlock jr., tony sirico, vincent pastore</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>mafia.</pelis:genero>
+  <pelis:fecha_estreno>1990</pelis:fecha_estreno>
+  <pelis:duracion>148 min</pelis:duracion>  
+  <pelis:productora>warner bros</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>henry hill, hijo de padre irlandés y madre siciliana, vive en brooklyn y se siente fascinado por la vida que llevan los gángsters de su barrio, donde la mayoría de los vecinos son inmigrantes. paul cicero, el patriarca de la familia pauline, es el protector del barrio. a los trece años, henry decide abandonar la escuela y entrar a formar parte de la organización mafiosa como chico de los recados; muy pronto se gana la confianza de sus jefes, gracias a lo cual irá subiendo de categoría. </pelis:sinopsis>
+  <pelis:premios>    
+1990: oscar: mejor actor secundario (joe pesci). 6 nominaciones
+1990: globos de oro: 5 nominaciones, incluyendo drama, director y actor sec. (pesci)
+1990: 5 premios bafta, incluyendo mejor película y director. 7 nominaciones
+1990: national board of review: mejor actor sec. (joe pesci), 10 mejores películas
+1990: festival de venecia: león de plata (mejor director)
+1990: círculo de críticos de nueva york: mejor película, mejor director. 5 nominaciones
+1990: asociación de críticos de los ángeles -lafca: mejor película
+1990: premios césar: nominada a mejor película extranjera
+1990: asociación de críticos de boston: mejor película, director, actor sec. (pesci)
+1990: david di donatello: nominada película extranjera, actor extranjero (de niro)
+1990: asociación de directores de américa: nominado mejor director (scorsese)
+1990: círculo de críticos de kansas: mejor película, director, actor sec. (pesci)
+1990: círculo de críticos de new york: mejor película, director, actor (de niro)
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="matrix">
+  <pelis:nombre>matrix</pelis:nombre>
+  <pelis:director>andy wachowski, lana wachowski (aka larry wachowski)</pelis:director>
+  <pelis:guionista>andy wachowski, lana wachowski (aka larry wachowski)</pelis:guionista>
+  <pelis:actor_principal>keanu reeves</pelis:actor_principal>
+  <pelis:actores_reparto> laurence fishburne, carrie-anne moss, joe pantoliano, hugo weaving, marcus chong, gloria foster, matt doran, belinda mcclory, julian arahanga, anthony ray parker, paul goddard, robert taylor, marc aden gray</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>ciencia ficcion</pelis:genero>
+  <pelis:fecha_estreno>1999</pelis:fecha_estreno>
+  <pelis:duracion>131 min</pelis:duracion>  
+  <pelis:productora>warner bros</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>thomas anderson es un brillante programador de una respetable compañía de software. pero fuera del trabajo es neo, un hacker que un día recibe una misteriosa visita... </pelis:sinopsis>
+  <pelis:premios>    
+1999: 4 oscars: mejor montaje, sonido, efectos visuales, efectos sonoros
+1999: 2 premios bafta: mejores efectos visuales y sonido. 5 nominaciones
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="la-guerra-de-las-galaxias-episodio-iv-una-nueva-esperanza">
+  <pelis:nombre>la guerra de la galaxias episodio iv una nueva esperanza</pelis:nombre>
+  <pelis:director>george lucas</pelis:director>
+  <pelis:guionista>george lucas</pelis:guionista>
+  <pelis:actor_principal>mark hamill</pelis:actor_principal>
+  <pelis:actores_reparto> harrison ford, carrie fisher, peter cushing, alec guinness, david prowse, peter mayhew, anthony daniels, kenny baker, phil brown, shelagh fraser, garrick hagon, denis lawson, alex mccrindle, richard leparmentier, drewe henley, jack purvis, don henderson, william hootkins, malcolm tierney</pelis:actores_reparto>
+  <pelis:calificacion>8.7</pelis:calificacion>
+  <pelis:genero>ciencia ficcion</pelis:genero>
+  <pelis:fecha_estreno>1977</pelis:fecha_estreno>
+  <pelis:duracion>121 min</pelis:duracion>  
+  <pelis:productora>fox</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>la princesa leia, líder del movimiento rebelde que desea reinstaurar la república en la galaxia en los tiempos ominosos del imperio, es capturada por las fuerzas imperiales, capitaneadas por el implacable darth vader, el sirviente más fiel del emperador. el intrépido y joven luke skywalker, ayudado por han solo, capitán de la nave espacial "el halcón milenario", y los androides, r2d2 y c3po, serán los encargados de luchar contra el enemigo y e intentar rescatar a la princesa para volver a instaurar la justicia en el seno de la galaxia.</pelis:sinopsis>
+  <pelis:premios>    
+1977: 7 oscars: dir. artística, bso, sonido, montaje, vestuario, efectos visuales. premio especial a los efectos de sonido.
+1977: globos de oro: mejor banda sonora original. 4 nominaciones
+1977: 2 premios bafta: sonido y música. 6 nominaciones
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ciudad-de-dios">
+  <pelis:nombre>ciudad de dios</pelis:nombre>
+  <pelis:director>fernando meirelles, kátia lund</pelis:director>
+  <pelis:guionista>braulio mantovani (novela: paulo lins)</pelis:guionista>
+  <pelis:actor_principal>alexandre rodrigues</pelis:actor_principal>
+  <pelis:actores_reparto>  leandro firmino, phellipe haagensen, douglas silva, seu jorge, jonathan haagensen, matheus nachtergaele, jefechander suplino, alice braga, emerson gomes, luis otávio, babu santana, gero camilo</pelis:actores_reparto>
+  <pelis:calificacion>8.6</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>2002</pelis:fecha_estreno>
+  <pelis:duracion>130 min</pelis:duracion>  
+  <pelis:productora>globo filmes</pelis:productora>
+  <pelis:pais>brasil</pelis:pais>
+  <pelis:sinopsis>basada en hechos reales, describe el mundo del crimen organizado en cidade de deus, un suburbio de río de janeiro, desde finales de los sesenta hasta principios de los ochenta, época durante la cual el tráfico de drogas y la violencia impusieron su ley en las favelas. a finales de los sesenta, buscapé, un niño de 11 años tímido y sensible, observa a los niños duros de su barrio, sus robos, sus peleas, sus enfrentamientos diarios con la policía. pero él sabe muy bien lo que quiere ser si consigue sobrevivir: fotógrafo. dadinho, un niño de su edad que se traslada al barrio, sueña con ser el criminal más peligroso de río de janeiro y empieza su aprendizaje haciendo recados para los delincuentes locales. admira a cabeleira y su pandilla, que se dedican a atracar los camiones del gas. un día cabeleira le da a dadinho la oportunidad de cometer su primer asesinato.</pelis:sinopsis>
+  <pelis:premios>
+2003: 4 nominaciones al oscar: mejor director, fotografía, montaje, guión adaptado
+2002: globos de oro: nominada mejor película de habla no inglesa
+2002: premios bafta: mejor montaje. nominada a mejor película de habla no inglesa
+2003: círculo de críticos de nueva york: mejor película extranjera
+2003: festival de toronto: mejor película extranjera
+2003: critics' choice awards: nominada a mejor película de habla no inglesa
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="lost">
+  <series:nombre>lost</series:nombre>
+  <series:genero>thriller</series:genero>
+  <series:director>jack bender</series:director>
+  <series:guionista>j. j. abrams</series:guionista>
+  <series:actor_principal>adewale_akinnuoye-agbaje</series:actor_principal>
+  <series:actores_reparto>adewale akinnuoye-agbaje, sam anderson, naveen andrews, l. scott caldwell, nestor carbonell, françois chau, henry ian cusick, jeremy davies, emilie de ravin, michael emerson, jeff fahey, fionnula flanagan, matthew fox, jorge garcía, maggie grace, josh holloway, malcolm david kelley, daniel dae kim, yunjin kim, ken leung, evangeline lilly, rebecca mader, elizabeth mitchell, dominic monaghan</series:actores_reparto>
+  <series:calificacion>9.3</series:calificacion>
+  <series:temporadas>6</series:temporadas>
+  <series:episodios>121</series:episodios>
+  <series:duracion_capitulo>43 minutos</series:duracion_capitulo>
+  <series:productora>touchstone television abc studios</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>22 de septiembre de 2004</series:fecha_estreno>
+  <series:fecha_fin>23 de octubre de 2010</series:fecha_fin>
+  
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="juego-de-tronos">
+  <series:nombre>juego de tronos</series:nombre>
+  <series:genero>fantasia</series:genero>
+  <series:director>david benioff</series:director>
+  <series:guionista>george r r martin</series:guionista>
+  <series:actor_principal>sean bean</series:actor_principal>
+  <series:actores_reparto>adewale akinnuoye-agbaje, sam anderson, naveen andrews, l. scott caldwell, nestor carbonell, françois chau, henry ian cusick, jeremy davies, emilie de ravin, michael emerson, jeff fahey, fionnula flanagan, matthew fox, jorge garcía, maggie grace, josh holloway, malcolm david kelley, daniel dae kim, yunjin kim, ken leung, evangeline lilly, rebecca mader, elizabeth mitchell, dominic monaghan</series:actores_reparto>
+  <series:calificacion>9.5</series:calificacion>
+  <series:temporadas>4</series:temporadas>
+  <series:episodios>40</series:episodios>
+  <series:duracion_capitulo>52 minutos</series:duracion_capitulo>
+  <series:productora>hbo</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>17 de abril de 2011</series:fecha_estreno>
+  <series:fecha_fin>no tiene</series:fecha_fin>
+  
+</rdf:Description>
+
+<rdf:Description
+rdf:about="dr-house">
+  <series:nombre>dr house</series:nombre>
+  <series:genero>drama</series:genero>
+  <series:director>david shore</series:director>
+  <series:guionista>bryan singer</series:guionista>
+  <series:actor_principal>hugh laurie</series:actor_principal>
+  <series:actores_reparto>
+  lisa edelstein
+  omar epps
+  robert sean leonard
+  jennifer morrison
+  jesse spencer
+  peter jacobson
+  kal penn
+  olivia wilde
+  amber tamblyn
+  charlyne yi
+  odette annable</series:actores_reparto>
+  <series:calificacion>10</series:calificacion>
+  <series:temporadas>8</series:temporadas>
+  <series:episodios>177</series:episodios>
+  <series:duracion_capitulo>43 minutos</series:duracion_capitulo>
+  <series:productora>fox</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>16 de noviembre de 2004</series:fecha_estreno>
+  <series:fecha_fin>21 de mayo de 2012</series:fecha_fin>
+  
+</rdf:Description>
+
+<rdf:Description
+rdf:about="breaking_bad">
+  <series:nombre>breaking bad</series:nombre>
+  <series:genero>drama</series:genero>
+  <series:director>vince gilligan</series:director>
+  <series:guionista>bryan singer</series:guionista>
+  <series:actor_principal>bryan cranston</series:actor_principal>
+  <series:actores_reparto>
+anna gunn
+aaron paul
+dean norris
+betsy brandt
+rj mitte
+bob odenkirk
+giancarlo esposito
+jonathan banks</series:actores_reparto>
+  <series:calificacion>9.8</series:calificacion>
+  <series:temporadas>5</series:temporadas>
+  <series:episodios>62</series:episodios>
+  <series:duracion_capitulo>47 minutos</series:duracion_capitulo>
+  <series:productora>amc</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>20 de enero de 2008</series:fecha_estreno>
+  <series:fecha_fin>29 de septiembre de 2013</series:fecha_fin>
+  
+</rdf:Description>
+
+<rdf:Description
+rdf:about="sons_of_anarchy">
+  <series:nombre>sons of anarchy</series:nombre>
+  <series:genero>drama</series:genero>
+  <series:director>vince gilligan</series:director>
+  <series:guionista>kurt sutter</series:guionista>
+  <series:actor_principal>charlie hunnam  </series:actor_principal>
+  <series:actores_reparto>
+katey sagal
+ron perlman
+mark boone junior
+kim coates
+tommy flanagan
+ryan hurst
+johnny lewis
+william lucking
+theo rossi
+maggie siff
+mitch pileggi
+kurt sutter</series:actores_reparto>
+  <series:calificacion>9.4</series:calificacion>
+  <series:temporadas>7</series:temporadas>
+  <series:episodios>89</series:episodios>
+  <series:duracion_capitulo>45 minutos</series:duracion_capitulo>
+  <series:productora>fx</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>3 de septiembre de 2008</series:fecha_estreno>
+  <series:fecha_fin>9 de diciembre de 2014</series:fecha_fin>
+  
+</rdf:Description>
+
+<rdf:Description
+rdf:about="spartacus">
+  <series:nombre>spartacus</series:nombre>
+  <series:genero>accion</series:genero>
+  <series:director>steven deknight</series:director>
+  <series:guionista> chloe smith</series:guionista>
+  <series:actor_principal>andy whitfield</series:actor_principal>
+  <series:actores_reparto>
+mcintyre
+manu bennett
+dustin clare
+peter mensah
+lucy lawless
+john hannah
+craig walsh wrightson
+jeffrey thomas
+jaime murray
+stephen lovatt</series:actores_reparto>
+  <series:calificacion>8.8</series:calificacion>
+  <series:temporadas>4</series:temporadas>
+  <series:episodios>39</series:episodios>
+  <series:duracion_capitulo>55 minutos</series:duracion_capitulo>
+  <series:productora>starz</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>22 de enero de 2010</series:fecha_estreno>
+  <series:fecha_fin> 20 de noviembre de 2013</series:fecha_fin>
+  
+</rdf:Description>
+
+<rdf:Description
+rdf:about="dexter">
+  <series:nombre>dexter</series:nombre>
+  <series:genero>thriller</series:genero>
+  <series:director>quien sabe</series:director>
+  <series:guionista>james manos</series:guionista>
+  <series:actor_principal>michael c hall</series:actor_principal>
+  <series:actores_reparto>
+jennifer carpenter
+c. s. lee
+david zayas
+james remar
+desmond harrington
+aimee garcia
+yvonne strahovski</series:actores_reparto>
+  <series:calificacion>8.5</series:calificacion>
+  <series:temporadas>8</series:temporadas>
+  <series:episodios>96</series:episodios>
+  <series:duracion_capitulo>50 minutos</series:duracion_capitulo>
+  <series:productora>showtime</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>1 de octubre de 2006</series:fecha_estreno>
+  <series:fecha_fin>22 de septiembre de 2013</series:fecha_fin>
+  
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="leonardo_dicaprio">
+  <actores:nombre>leonardo dicaprio</actores:nombre>
+  <actores:edad>40</actores:edad>
+  <actores:lugar_nacimiento>los ángeles, california, estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1989</actores:inicio_carrera>
+  <actores:premios>globos de oro: mejor actor - drama 2004 the aviator. globos de oro: mejor actor - comedia o musical 2013 the wolf of wall street</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="mark_hamill">
+  <actores:nombre>mark hamill</actores:nombre>
+  <actores:edad>63</actores:edad>
+  <actores:lugar_nacimiento>concord, california, (estados unidos)</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1978</actores:inicio_carrera>
+  <actores:premios>ninguno</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="keanu_reeves">
+  <actores:nombre>keanu reeves</actores:nombre>
+  <actores:edad>50</actores:edad>
+  <actores:lugar_nacimiento>beirut, líbano</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1985</actores:inicio_carrera>
+  <actores:premios>ninguno</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="john_travolta">
+  <actores:nombre>john travolta</actores:nombre>
+  <actores:edad>60</actores:edad>
+  <actores:lugar_nacimiento>englewood, nueva jersey, estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1969</actores:inicio_carrera>
+  <actores:premios>globos de oro  mejor actor - comedia o musical 1996 get shorty'</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="elijah_wood">
+  <actores:nombre>elijah wood</actores:nombre>
+  <actores:edad>30</actores:edad>
+  <actores:lugar_nacimiento>cedar rapids (iowa, estados unidos)</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1988</actores:inicio_carrera>
+  <actores:premios>premios sag:mejor reparto 2003 el señor de los anillos: el retorno del rey</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="al_pacino">
+  <actores:nombre>al pacino</actores:nombre>
+  <actores:edad>74</actores:edad>
+  <actores:lugar_nacimiento> east harlem, manhattan, nueva york, nueva york,estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1968</actores:inicio_carrera>
+  <actores:premios>premios óscar:  mejor actor 1992 scent of a woman.globos de oro:  mejor actor - drama 1974. serpico 1993 scent of a woman</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="marlon_brando">
+  <actores:nombre>marlon brando</actores:nombre>
+  <actores:edad>80</actores:edad>
+  <actores:lugar_nacimiento> omaha, estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1945</actores:inicio_carrera>
+  <actores:premios>premios óscar:  mejor actor - 1954 on the waterfront. 1972 el padrino</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="brad_pitt">
+  <actores:nombre>brad pitt</actores:nombre>
+  <actores:edad>51</actores:edad>
+  <actores:lugar_nacimiento> shawnee, oklahoma, estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1987</actores:inicio_carrera>
+  <actores:premios>premios óscar: mejor película- 2013 12 years a slave. 2006 the departed</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="matthew_mcconaughey">
+  <actores:nombre>matthew mcconaughey</actores:nombre>
+  <actores:edad>45</actores:edad>
+  <actores:lugar_nacimiento> uvalde, texas, estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1987</actores:inicio_carrera>
+  <actores:premios>premios óscar:  mejor actor - 2013 dallas buyers club</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="christopher_nolan">
+  <directores:nombre>christopher nolan</directores:nombre>
+  <directores:edad>44</directores:edad>
+  <directores:lugar_nacimiento>londres, inglaterra</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1989</directores:inicio_carrera>
+  <directores:premios>premio de la crítica cinematográfica al mejor guionista
+2001 memento</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="martin_scorsese">
+  <directores:nombre>martin scorsese</directores:nombre>
+  <directores:edad>72</directores:edad>
+  <directores:lugar_nacimiento> londres, inglaterra 30 de julio de 1970 </directores:lugar_nacimiento>
+  <directores:inicio_carrera>1987</directores:inicio_carrera>
+  <directores:premios>premios óscar   mejor director
+2006 the departed
+globos de oro   mejor director
+2011 hugo
+2006 the departed
+2002 gangs of new york</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="francis_ford_coppola">
+  <directores:nombre>francis ford coppola</directores:nombre>
+  <directores:edad>75</directores:edad>
+  <directores:lugar_nacimiento>detroit, míchigan,estados unidos</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1963</directores:inicio_carrera>
+  <directores:premios>premios óscar   premio en memoria de irving thalberg
+2010 premio a su aporte cinematográfico
+mejor director
+1974 el padrino ii
+mejor película
+1972 el padrino
+1974 el padrino ii
+mejor guion adaptado
+1972 el padrino
+1974 el padrino ii
+mejor guion original
+1970 patton</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="frank_darabont">
+  <directores:nombre>frank darabont</directores:nombre>
+  <directores:edad>56</directores:edad>
+  <directores:lugar_nacimiento>montbéliard, doubs, francia</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1981</directores:inicio_carrera>
+  <directores:premios>premio de la crítica cinematográfica al mejor guion adaptado
+                      1999 the green mile</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="quentin_tarantino">
+  <directores:nombre>quentin tarantino</directores:nombre>
+  <directores:edad>51</directores:edad>
+  <directores:lugar_nacimiento>knoxville, tennessee, estados unidos</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1988</directores:inicio_carrera>
+  <directores:premios>premios óscar   mejor guion original
+                      1994 pulp fiction
+                      2012 django unchained
+                      globos de oro   mejor guion
+                      1994 pulp fiction
+                      2012 django unchained</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="steven_spielberg">
+  <directores:nombre>steven spielberg</directores:nombre>
+  <directores:edad>68</directores:edad>
+  <directores:lugar_nacimiento>cincinnati, ohio,estados unidos</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1963</directores:inicio_carrera>
+  <directores:premios>premios óscar   óscar honorífico
+                      1986 premio en memoria de irving thalberg
+                      mejor película
+                      1993 schindler's list
+                      mejor director
+                      1993 schindler's list
+                      1998 saving private ryan</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="peter_jackson">
+  <directores:nombre>peter jackson</directores:nombre>
+  <directores:edad>53</directores:edad>
+  <directores:lugar_nacimiento>pukerua bay (porirua, nueva zelanda)</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1963</directores:inicio_carrera>
+  <directores:premios>premios óscar   mejor director
+                      2003: el señor de los anillos: el retorno del rey
+                      mejor película
+                      2003: el señor de los anillos: el retorno del rey
+                      mejor guion adaptado
+                      2003: el señor de los anillos: el retorno del rey</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="david_fincher">
+  <directores:nombre>david fincher</directores:nombre>
+  <directores:edad>53</directores:edad>
+  <directores:lugar_nacimiento>denver, estados unidos</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1991</directores:inicio_carrera>
+  <directores:premios>globos de oro   mejor director
+                      2011 the social network
+                      premios bafta   mejor director
+                      2010 the social network
+                      otros premios   premio de la crítica cinematográfica al mejor director
+                      2010 the social network</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="robert_zemeckis">
+  <directores:nombre>robert zemeckis</directores:nombre>
+  <directores:edad>53</directores:edad>
+  <directores:lugar_nacimiento>chicago, illinois,estados unidos</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1972</directores:inicio_carrera>
+  <directores:premios>premios óscar   mejor película
+                      1994 forrest gump
+                      mejor director
+                      1994 forrest gump</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="los-vengadores">
+  <pelis:nombre>los vengadores</pelis:nombre>
+  <pelis:director>joss whedon</pelis:director>
+  <pelis:guionista>joss whedon</pelis:guionista>
+  <pelis:actor_principal>robert downey jr</pelis:actor_principal>
+  <pelis:actores_reparto>   chris evans, mark ruffalo, chris hemsworth, jeremy renner, scarlett johansson, tom hiddleston, samuel l. jackson, cobie smulders, clark gregg, gwyneth paltrow, stellan skarsgård, paul bettany, maximiliano hernández, alexis denisof, jerzy skolimowski, tina benko, powers boothe, harry dean stanton, stan lee</pelis:actores_reparto>
+  <pelis:calificacion>8.0</pelis:calificacion>
+  <pelis:genero>accion</pelis:genero>
+  <pelis:fecha_estreno>2012</pelis:fecha_estreno>
+  <pelis:duracion>135 min</pelis:duracion>  
+  <pelis:productora>marvel</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, nick fury, director de la agencia shield, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. adaptación del cómic de marvel "los vengadores", el legendario grupo de superhéroes formado por ironman, hulk, thor y el capitán américa entre otros</pelis:sinopsis>
+  <pelis:premios>
+2012: oscars: nominada a mejores efectos visuales
+2012: premios annie: mejores efectos animados en producción de imagen real
+2012: premios bafta: nominada a mejores efectos especiales visuales
+2012: critics choice awards: 3 nominaciones técnicas
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="el-diario-de-noa">
+  <pelis:nombre>el diario de noa</pelis:nombre>
+  <pelis:director>nick cassavetes</pelis:director>
+  <pelis:guionista>jeremy leven</pelis:guionista>
+  <pelis:actor_principal>ryan gosling</pelis:actor_principal>
+  <pelis:actores_reparto>rachel mcadams, james garner, sam shepard, gena rowlands, james marsden, kevin connolly, joan allen</pelis:actores_reparto>
+  <pelis:calificacion>8.1</pelis:calificacion>
+  <pelis:genero>amor</pelis:genero>
+  <pelis:fecha_estreno>2004</pelis:fecha_estreno>
+  <pelis:duracion>124 min</pelis:duracion>  
+  <pelis:productora>new line</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>en una residencia de ancianos, un hombre (james garner) lee a una mujer (gena rowlands) una historia de amor escrita en su viejo cuaderno de notas. es la historia de noah calhoun (ryan gosling) y allie nelson (rachel mcadams), dos jóvenes adolescentes de carolina del norte que, a pesar de vivir en dos ambientes sociales muy diferentes, se enamoraron profundamente y pasaron juntos un verano inolvidable, antes de ser separados, primero por sus padres, y más tarde por la guerra.</pelis:sinopsis>
+  <pelis:premios>ninguna</pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="el-curioso-caso-de-benjamin-button">
+  <pelis:nombre>el curioso caso de benjamin button</pelis:nombre>
+  <pelis:director>david fincher</pelis:director>
+  <pelis:guionista>eric roth</pelis:guionista>
+  <pelis:actor_principal>brad pitt</pelis:actor_principal>
+  <pelis:actores_reparto> cate blanchett, taraji p. henson, tilda swinton, jason flemyng, julia ormond, eric west, elias koteas, elle fanning, jared harris</pelis:actores_reparto>
+  <pelis:calificacion>9.1</pelis:calificacion>
+  <pelis:genero>amor</pelis:genero>
+  <pelis:fecha_estreno>2008</pelis:fecha_estreno>
+  <pelis:duracion>167 min</pelis:duracion>  
+  <pelis:productora>paramount pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>en una residencia de ancianos, un hombre (james garner) lee a una mujer (gena rowlands) una historia de amor escrita en su viejo cuaderno de notas. es la historia de noah calhoun (ryan gosling) y allie nelson (rachel mcadams), dos jóvenes adolescentes de carolina del norte que, a pesar de vivir en dos ambientes sociales muy diferentes, se enamoraron profundamente y pasaron juntos un verano inolvidable, antes de ser separados, primero por sus padres, y más tarde por la guerra.</pelis:sinopsis>
+  <pelis:premios>
+2008: 3 oscars: mejor dirección artística, maquillaje, efectos visuales. 13 nominaciones
+2008: 5 nominaciones al globo de oro, incluyendo mejor película, director
+2008: 3 premios bafta, incluyendo mejor maquillaje. 11 nom., incluyendo mejor película
+2008: asociación de críticos de los angeles: finalista a mejor banda sonora
+2008: american film institute (afi): top 10 - mejores películas del año
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="guerra-mundial-z">
+  <pelis:nombre>guerra mundial z</pelis:nombre>
+  <pelis:director>marc forster</pelis:director>
+  <pelis:guionista>j michael straczynski</pelis:guionista>
+  <pelis:actor_principal>brad pitt</pelis:actor_principal>
+  <pelis:actores_reparto>mireille enos, daniella kertesz, david morse, matthew fox, eric west</pelis:actores_reparto>
+  <pelis:calificacion>9.1</pelis:calificacion>
+  <pelis:genero>amor</pelis:genero>
+  <pelis:fecha_estreno>2013</pelis:fecha_estreno>
+  <pelis:duracion>116 min</pelis:duracion>  
+  <pelis:productora>paramount pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>cuando el mundo comienza a ser invadido por una legión de muertos vivientes, gerry lane (brad pitt), un experto investigador de las naciones unidas, intentará evitar el fin de la civilización en una carrera contra el tiempo y el destino. la destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia</pelis:sinopsis>
+  <pelis:premios>2013: satellite awards: nominada a mejores efectos visuales
+</pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="bastardos-sin-gloria">
+  <pelis:nombre>bastardos sin gloria</pelis:nombre>
+  <pelis:director>quentin tarantino</pelis:director>
+  <pelis:guionista>quentin tarantino</pelis:guionista>
+  <pelis:actor_principal>brad pitt</pelis:actor_principal>
+  <pelis:actores_reparto>christoph waltz, mélanie laurent, diane kruger, michael fassbender, daniel brühl, eli roth, til schweiger, b. j. novak</pelis:actores_reparto>
+  <pelis:calificacion>7.1</pelis:calificacion>
+  <pelis:genero>accion</pelis:genero>
+  <pelis:fecha_estreno>2009</pelis:fecha_estreno>
+  <pelis:duracion>153 min</pelis:duracion>  
+  <pelis:productora>paramount pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>segunda guerra mundial. durante la ocupación de francia por los alemanes, shosanna dreyfus (mélanie laurent) presencia la ejecución de su familia por orden del coronel nazi hans landa (christoph waltz). después de huir a parís, adopta una nueva identidad como propietaria de un cine. en otro lugar de europa, el teniente aldo raine (brad pitt) adiestra a un grupo de soldados judíos ("the basterds") para atacar objetivos concretos. los hombres de raine y una actriz alemana (diane kruger), que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del tercer reich. el destino quiere que todos se encuentren bajo la marquesina de un cine donde shosanna espera para vengarse.</pelis:sinopsis>
+  <pelis:premios>
+2009: oscar: mejor actor de reparto (christoph waltz). 8 nominaciones
+2009: globo de oro: mejor actor secundario (christoph waltz). 4 nominaciones
+2009: premios bafta: mejor actor sec. (waltz). 6 nom., incluyendo mejor director
+2009: festival de cannes: mejor actor (christoph waltz)
+2009: premios david di donatello: mejor film extranjero.
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="atrapame-si-puedes">
+  <pelis:nombre>atrapame si puedes</pelis:nombre>
+  <pelis:director>steven spielberg</pelis:director>
+  <pelis:guionista>jeff nathanson</pelis:guionista>
+  <pelis:actor_principal>leonardo dicaprio</pelis:actor_principal>
+  <pelis:actores_reparto>tom hanks, christopher walken, amy adams, nathalie baye, martin sheen, jennifer garner, brian howe, frank john hughes, james brolin, elizabeth banks, chris ellis, ellen pompeo</pelis:actores_reparto>
+  <pelis:calificacion>7.1</pelis:calificacion>
+  <pelis:genero>comedia</pelis:genero>
+  <pelis:fecha_estreno>2002</pelis:fecha_estreno>
+  <pelis:duracion>140 min</pelis:duracion>  
+  <pelis:productora>dreamworks</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>basada en una historia real. en los años sesenta, frank w. abagnale (leonardo dicaprio) era un joven y escurridizo delincuente que adoptaba diversas identidades (médico, abogado o copiloto de líneas aéreas). carl hanratty (tom hanks), un agente del fbi, tenía la misión de seguir su pista y capturarlo para llevarlo ante la justicia, pero frank siempre iba un paso por delante de él.</pelis:sinopsis>
+  <pelis:premios>
+2002: 2 nominaciones al oscar: mejor actor secundario (christopher walken), bso
+2002: globos de oro: nominada mejor actor - drama (leonardo dicaprio)
+</pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="scarface">
+  <pelis:nombre>scarface</pelis:nombre>
+  <pelis:director>brian de palma</pelis:director>
+  <pelis:guionista>oliver stone</pelis:guionista>
+  <pelis:actor_principal>al pacino</pelis:actor_principal>
+  <pelis:actores_reparto> steven bauer, michelle pfeiffer, mary elizabeth mastrantonio, robert loggia, miriam colon, f. murray abraham, paul shenar, harris yulin, dennis holahan, mark margolis</pelis:actores_reparto>
+  <pelis:calificacion>7.8</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1983</pelis:fecha_estreno>
+  <pelis:duracion>163 min</pelis:duracion>  
+  <pelis:productora>universal pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>tony montana es un emigrante cubano frío y sanguinario que se instala en miami con el propósito de convertirse en un gángster importante. con la colaboración de su amigo manny rivera inicia una fulgurante carrera delictiva con el objetivo de acceder a la cúpula de una organización de narcos.</pelis:sinopsis>
+  <pelis:premios>
+1983: globos de oro: 3 nominaciones: música, actor (pacino) y actor sec. (bauer)
+1983: nominada a los premios razzie: peor director
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="el-pianista">
+  <pelis:nombre>el pianista</pelis:nombre>
+  <pelis:director>roman polanski</pelis:director>
+  <pelis:guionista>ronald harwood</pelis:guionista>
+  <pelis:actor_principal>adrien brody</pelis:actor_principal>
+  <pelis:actores_reparto>  thomas kretschmann, maureen lipman, ed stoppard, emilia fox, frank finlay, julia rayner, jessica kate meyer</pelis:actores_reparto>
+  <pelis:calificacion>8.9</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>2002</pelis:fecha_estreno>
+  <pelis:duracion>148 min</pelis:duracion>  
+  <pelis:productora>dreamworks</pelis:productora>
+  <pelis:pais>reino unido</pelis:pais>
+  <pelis:sinopsis>wladyslaw szpilman, un brillante pianista polaco de origen judío, vive con su familia en el ghetto de varsovia. cuando, en 1939, los alemanes invaden polonia, consigue evitar la deportación gracias a la ayuda de algunos amigos. pero tendrá que vivir escondido y completamente aislado durante mucho tiempo, y para sobrevivir tendrá que afrontar constantes peligros.</pelis:sinopsis>
+  <pelis:premios>
+2002: 3 oscar: mejor director, actor (adrien brody), guión adaptado. 7 nominaciones
+2002: globos de oro: 2 nominaciones: mejor película y actor drama (adrien brody)
+2002: festival de cannes: palma de oro
+2002: 2 premios bafta: mejor película y director. 7 nominaciones
+</pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="seven">
+  <pelis:nombre>seven</pelis:nombre>
+  <pelis:director>david fincher</pelis:director>
+  <pelis:guionista>andrew kevin walker</pelis:guionista>
+  <pelis:actor_principal>brad pitt</pelis:actor_principal>
+  <pelis:actores_reparto>  morgan freeman, gwyneth paltrow, kevin spacey, john c. mcginley, richard roundtree, r. lee ermey, leland orser, richard schiff, julie araskog, mark boone junior, daniel zacapa, richard portnow, bob stephenson, john cassini, lennie loftin, reg e. cathey</pelis:actores_reparto>
+  <pelis:calificacion>9.1</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1995</pelis:fecha_estreno>
+  <pelis:duracion>127 min</pelis:duracion>  
+  <pelis:productora>new line</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>el veterano teniente somerset (morgan freeman), del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso e impulsivo detective david mills (brad pitt). ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.</pelis:sinopsis>
+  <pelis:premios>
+2002: 3 oscar: mejor director, actor (adrien brody), guión adaptado. 7 nominaciones
+2002: globos de oro: 2 nominaciones: mejor película y actor drama (adrien brody)
+2002: festival de cannes: palma de oro
+2002: 2 premios bafta: mejor película y director. 7 nominaciones
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="casino">
+  <pelis:nombre>casino</pelis:nombre>
+  <pelis:director>martin scorsese</pelis:director>
+  <pelis:guionista>nicholas pileggi</pelis:guionista>
+  <pelis:actor_principal>robert de niro</pelis:actor_principal>
+  <pelis:actores_reparto>  morgan freeman, gwyneth paltrow, kevin spacey, john c. mcginley, richard roundtree, r. lee ermey, leland orser, richard schiff, julie araskog, mark boone junior, daniel zacapa, richard portnow, bob stephenson, john cassini, lennie loftin, reg e. cathey</pelis:actores_reparto>
+  <pelis:calificacion>9.1</pelis:calificacion>
+  <pelis:genero>mafia</pelis:genero>
+  <pelis:fecha_estreno>1995</pelis:fecha_estreno>
+  <pelis:duracion>173 min</pelis:duracion>  
+  <pelis:productora>universal pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>las vegas, 1973. sam "ace" rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus jefes siga fluyendo. las vegas es un lugar ideal para millonarios y políticos, pero es también lugar de paso de tahúres, prestamistas, traficantes de drogas y matones. un día el violento nicky santoro, al que sus jefes han encargado que cuide de sam, llega a las vegas con la intención de quedarse. </pelis:sinopsis>
+  <pelis:premios>
+1995: nominada al oscar: mejor actriz (sharon stone)
+1995: globo de oro: mejor actriz drama (sharon stone). nominada mejor director
+1995: gremio de editores cinematográficos (usa): nominada mejor montaje
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="taxi-driver">
+  <pelis:nombre>taxi driver</pelis:nombre>
+  <pelis:director>martin scorsese</pelis:director>
+  <pelis:guionista>paul schrader</pelis:guionista>
+  <pelis:actor_principal>robert de niro</pelis:actor_principal>
+  <pelis:actores_reparto>  morgan freeman, gwyneth paltrow, kevin spacey, john c. mcginley, richard roundtree, r. lee ermey, leland orser, richard schiff, julie araskog, mark boone junior, daniel zacapa, richard portnow, bob stephenson, john cassini, lennie loftin, reg e. cathey</pelis:actores_reparto>
+  <pelis:calificacion>9.1</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1976</pelis:fecha_estreno>
+  <pelis:duracion>113 min</pelis:duracion>  
+  <pelis:productora>columbia pictures</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>para sobrellevar el insomnio crónico que sufre desde su regreso de vietnam, travis bickle (robert de niro) trabaja como taxista nocturno en nueva york. es un hombre insociable que apenas tiene contacto con los demás, se pasa los días en el cine y vive prendado de betsy (cybill shepherd), una atractiva rubia que trabaja como voluntaria en una campaña política. pero lo que realmente obsesiona a travis es comprobar cómo la violencia, la sordidez y la desolación dominan la ciudad. y un día decide pasar a la acción. </pelis:sinopsis>
+  <pelis:premios>
+1976: 4 nominaciones al oscar: película, actor (de niro), secundaria (foster), música.
+1976: festival de cannes: palma de oro - mejor película
+1976: 2 nominaciones al globo de oro: actor en drama (de niro), guión
+</pelis:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="la-naranja-mecanica">
+  <pelis:nombre>la naranja mecanica</pelis:nombre>
+  <pelis:director>stanley kubrick</pelis:director>
+  <pelis:guionista>stanley kubrick</pelis:guionista>
+  <pelis:actor_principal>malcolm mcdowell</pelis:actor_principal>
+  <pelis:actores_reparto> patrick magee, michael bates, adrienne corri, warren clarke, john clive, aubrey morris, carl duering, paul farrell, clive francis, michael gover, miriam karlin, james marcus, geoffrey quigley, sheila raynor, madge ryan, philip stone, david prowse</pelis:actores_reparto>
+  <pelis:calificacion>9.3</pelis:calificacion>
+  <pelis:genero>drama</pelis:genero>
+  <pelis:fecha_estreno>1976</pelis:fecha_estreno>
+  <pelis:duracion>137 min</pelis:duracion>  
+  <pelis:productora>warner bros</pelis:productora>
+  <pelis:pais>estados unidos</pelis:pais>
+  <pelis:sinopsis>gran bretaña, en un futuro indeterminado. alex (malcolm mcdowell) es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y beethoven. es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. cuando esa escalada de terror llega hasta el asesinato, alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial. </pelis:sinopsis>
+  <pelis:premios>
+1971: 4 nominaciones al oscar: mejor película, director, montaje, guión adaptado
+1971: globos de oro: 3 nominaciones, incluyendo mejor película - drama
+1971: círculo de críticos de nueva york: mejor película y director
+</pelis:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="tom_hanks">
+  <actores:nombre>tom hanks</actores:nombre>
+  <actores:edad>58</actores:edad>
+  <actores:lugar_nacimiento>concord, california,estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1978</actores:inicio_carrera>
+  <actores:premios>
+premios óscar  mejor actor
+            1993 philadelphia
+            1994 forrest gump
+</actores:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="charlie_sheen">
+  <actores:nombre>charlie sheen</actores:nombre>
+  <actores:edad>49</actores:edad>
+  <actores:lugar_nacimiento>ciudad de nueva york, nueva york, estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>1973</actores:inicio_carrera>
+  <actores:premios>sin premios</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ty_burrell">
+  <actores:nombre>ty burrell</actores:nombre>
+  <actores:edad>47</actores:edad>
+  <actores:lugar_nacimiento>grants pass, oregón, estados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>2000</actores:inicio_carrera>
+  <actores:premios>
+premios emmy  mejor actor de reparto en comedia
+2011 modern family
+2014 modern family
+  </actores:premios>
+
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="josh_radnor">
+  <actores:nombre>josh radnor</actores:nombre>
+  <actores:edad>40</actores:edad>
+  <actores:lugar_nacimiento>columbus, ohio,stados unidos</actores:lugar_nacimiento>
+  <actores:inicio_carrera>2000</actores:inicio_carrera>
+  <actores:premios>sin premios</actores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="robert-de-niro">
+  <directores:nombre>robert de niro</directores:nombre>
+  <directores:edad>58</directores:edad>
+  <directores:lugar_nacimiento>greenwich village,nueva york</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1965</directores:inicio_carrera>
+  <directores:premios>
+premios óscar mejor actor de reparto
+              1974 el padrino ii
+              mejor actor
+              1980 raging bull
+</directores:premios>
+
+</rdf:Description>
+
+<rdf:Description
+rdf:about="george-lucas">
+  <directores:nombre>george lucas</directores:nombre>
+  <directores:edad>70</directores:edad>
+  <directores:lugar_nacimiento>modesto, california, estados unidos</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1967</directores:inicio_carrera>
+  <directores:premios>
+premios óscar mejor actor de reparto
+              1974 el padrino ii
+              mejor actor
+              1980 raging bull
+</directores:premios>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="chuck_lorre">
+  <directores:nombre>george lucas</directores:nombre>
+  <directores:edad>61</directores:edad>
+  <directores:lugar_nacimiento> long island, nueva york, estados unidos</directores:lugar_nacimiento>
+  <directores:inicio_carrera>1987</directores:inicio_carrera>
+  <directores:premios>
+premios bmi television music awards
+2004, 2005, 2008 por two and a half men
+</directores:premios>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="the-walking-dead">
+  <series:nombre>the walking dead</series:nombre>
+  <series:genero>terror</series:genero>
+  <series:director>frank darabont</series:director>
+  <series:guionista>frank darabont</series:guionista>
+  <series:actor_principal>michael c hall</series:actor_principal>
+  <series:actores_reparto>
+andrew lincoln
+sarah wayne callies
+jon bernthal
+laurie holden
+jeffrey demunn
+steven yeun
+chandler riggs
+norman reedus
+lauren cohan</series:actores_reparto>
+  <series:calificacion>7.8</series:calificacion>
+  <series:temporadas>5</series:temporadas>
+  <series:episodios>60</series:episodios>
+  <series:duracion_capitulo>43 minutos</series:duracion_capitulo>
+  <series:productora>amc</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>31 de octubre de 2010</series:fecha_estreno>
+  <series:fecha_fin>aun no termina</series:fecha_fin>
+  
+</rdf:Description>
+
+<rdf:Description
+rdf:about="prison-break">
+  <series:nombre>prison break</series:nombre>
+  <series:genero>accion</series:genero>
+  <series:director>paul scheuring</series:director>
+  <series:guionista>paul scheuring</series:guionista>
+  <series:actor_principal>michael c hall</series:actor_principal>
+  <series:actores_reparto>
+wentworth miller
+dominic purcell
+michael rapaport
+amaury nolasco
+sarah wayne callies
+robert knepper
+wade williams</series:actores_reparto>
+  <series:calificacion>9.6</series:calificacion>
+  <series:temporadas>4</series:temporadas>
+  <series:episodios>79</series:episodios>
+  <series:duracion_capitulo>45 minutos</series:duracion_capitulo>
+  <series:productora>fox</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>29 de agosto de 2005</series:fecha_estreno>
+  <series:fecha_fin> 22 de mayo de 2009</series:fecha_fin>
+  
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="modern-family">
+  <series:nombre>modern family</series:nombre>
+  <series:genero>comedia</series:genero>
+  <series:director>christopher lloyd</series:director>
+  <series:guionista>steven levitan</series:guionista>
+  <series:actor_principal>ty burrell</series:actor_principal>
+  <series:actores_reparto>
+sofía vergara
+ed o'neill
+julie bowen
+jesse tyler ferguson
+eric stonestreet
+nolan gould
+sarah hyland
+rico rodriguez ii
+ariel winter</series:actores_reparto>
+  <series:calificacion>7.7</series:calificacion>
+  <series:temporadas>6</series:temporadas>
+  <series:episodios>109</series:episodios>
+  <series:duracion_capitulo>45 minutos</series:duracion_capitulo>
+  <series:productora>fox</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>23 de septiembre de 2009</series:fecha_estreno>
+  <series:fecha_fin> aun no termina</series:fecha_fin>
+  
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="how-i-met-your-mother">
+  <series:nombre>how i met your mother</series:nombre>
+  <series:genero>comedia</series:genero>
+  <series:director>carter bays</series:director>
+  <series:guionista>steven levitan</series:guionista>
+  <series:actor_principal>josh radnor</series:actor_principal>
+  <series:actores_reparto>
+jason segel
+cobie smulders
+neil patrick harris
+alyson hannigan
+cristin milioti</series:actores_reparto>
+  <series:calificacion>10</series:calificacion>
+  <series:temporadas>9</series:temporadas>
+  <series:episodios>208</series:episodios>
+  <series:duracion_capitulo>22 minutos</series:duracion_capitulo>
+  <series:productora>cbs</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>19 de septiembre de 2005</series:fecha_estreno>
+  <series:fecha_fin>31 de marzo de 2014</series:fecha_fin>
+  
+</rdf:Description>
+
+<rdf:Description
+rdf:about="dos-hombres-y-medio">
+  <series:nombre>dos hombres y medio</series:nombre>
+  <series:genero>comedia</series:genero>
+  <series:director>chuck lorre</series:director>
+  <series:guionista>chuck lorre</series:guionista>
+  <series:actor_principal>charlie sheen</series:actor_principal>
+  <series:actores_reparto>
+charlie sheen
+jon cryer
+angus t. jones
+conchata ferrell
+holland taylor
+marin hinkle
+jennifer bini taylor
+melanie lynskey
+april bowlby
+ashton kutcher</series:actores_reparto>
+  <series:calificacion>10</series:calificacion>
+  <series:temporadas>12</series:temporadas>
+  <series:episodios>259</series:episodios>
+  <series:duracion_capitulo>22 minutos</series:duracion_capitulo>
+  <series:productora>warner bros</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>22 de septiembre de 2003</series:fecha_estreno>
+  <series:fecha_fin>aun no termina</series:fecha_fin>
+  
+</rdf:Description>
+
+<rdf:Description
+rdf:about="true-detective">
+  <series:nombre>true detective</series:nombre>
+  <series:genero>suspenso</series:genero>
+  <series:director>nic pizzolatto</series:director>
+  <series:guionista>nic pizzolatto</series:guionista>
+  <series:actor_principal>matthew mcconaughey</series:actor_principal>
+  <series:actores_reparto>
+matthew mcconaughey
+woody harrelson
+michelle monaghan
+michael potts
+tory kittles</series:actores_reparto>
+  <series:calificacion>9.7</series:calificacion>
+  <series:temporadas>1</series:temporadas>
+  <series:episodios>8</series:episodios>
+  <series:duracion_capitulo>60 minutos</series:duracion_capitulo>
+  <series:productora>hbo</series:productora>
+  <series:pais>estados unidos</series:pais>
+  <series:fecha_estreno>12 de enero de 2014</series:fecha_estreno>
+  <series:fecha_fin>aun no termina</series:fecha_fin>
+  
+</rdf:Description>
+
+
+
+
+</rdf:RDF>

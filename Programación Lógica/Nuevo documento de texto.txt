@@ -1,0 +1,7 @@
+concatenar(L1,[c,d],[a,b,c,d]).
+
+borrar algunos elementos de ina lista por ejemplo considerra la lista 
+
+La = [a,b,c,d,z,z,e,z,z,z,f,g] y borra todos los elementos que le siguen a la secuencia z,z,z
+
+LR = [a,b,c,d,z,z,e,z,z,z]

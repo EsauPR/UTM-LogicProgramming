@@ -1,0 +1,10 @@
+10 ?- [rojo,azul,amarrillo,verde]=[Cabeza|Resto], Resto=[C2|Resto2], Resto2=[C3|Resto3], Resto3=[C4|Resto4].
+Cabeza = rojo,
+Resto = [azul, amarrillo, verde],
+C2 = azul,
+Resto2 = [amarrillo, verde],
+C3 = amarrillo,
+Resto3 = [verde],
+
+C4 = verde,
+Resto4 = [].

@@ -1,0 +1,23 @@
+% Autor:
+% Fecha: 31/10/2014
+
+      imprimir([]).
+      imprimir([C|Resto]):- write(C),nl,imprimir(Resto).
+      
+      
+
+      
+      pertenece(X,[Prim|Resto]):- X=Prim.
+      pertenece(X,[Prim|Resto]):-pertenece(X,Resto).
+
+      pertenece(X,[Prim|Resto]):- pertenece(X,[X|_Resto]).
+
+      pertenece(X,[_Prim|Resto]):-perteece(X,Resto).
+       
+      agrega(X,[Prim|Resto],R):-  R=[X|[Prim|Resto]].
+      
+      concatenar([],L2,L2).
+      concatenar(L1,[],L1).
+      concatenar([X1|R1],[X2|R2],LR):- concatenar(R1,[X2|R2],RR),LR=[X1|RR].
+      
+      concatenar([X1|R1],[X2|R2],[X1|RR]):-concatenar[R1,[X2|R2],RR]. %Mejorada!
